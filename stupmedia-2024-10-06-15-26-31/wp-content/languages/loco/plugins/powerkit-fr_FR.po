@@ -1,0 +1,4223 @@
+# Copyright (C) 2024 powerkit
+# This file is distributed under the same license as the powerkit package.
+msgid ""
+msgstr ""
+"Project-Id-Version: powerkit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: French (France)\n"
+"Last-Translator: La rédaction\n"
+"Report-Msgid-Bugs-To: https://codesupply.co/contact/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"POT-Creation-Date: 2024-05-14 11:27+0000\n"
+"PO-Revision-Date: 2024-07-22 14:20+0000\n"
+"Language: fr_FR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6"
+
+#: admin/class-admin-powerkit-manager.php:48,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:182
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:62,
+#: admin/class-admin-powerkit-manager.php:62, core/class-powerkit.php:59
+msgid "Powerkit"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:124
+msgid "Powerkit Modules"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:163,
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:110
+msgid "All"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:164
+msgid "Active"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:165
+msgid "Inactive"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:170
+msgid "Select bulk action"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:172
+msgid "Bulk Actions"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:173,
+#: admin/class-admin-powerkit-manager.php:248
+msgid "Activate"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:174,
+#: admin/class-admin-powerkit-manager.php:244
+msgid "Deactivate"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:180,
+#: modules/facebook/admin/class-powerkit-facebook-admin.php:76
+msgid "items"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:190
+msgid "Module"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:191,
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:231
+msgid "Description"
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:297
+msgid "No modules avaliable."
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:380
+msgid "Module deactivated."
+msgstr ""
+
+#: admin/class-admin-powerkit-manager.php:378
+msgid "Module activated."
+msgstr ""
+
+#: core/core-powerkit-helpers.php:24
+msgid ""
+" Don’t worry, this error is visible to site admins only, and your site "
+"visitors won’t see it."
+msgstr ""
+
+#: core/core-powerkit-helpers.php:158, core/core-powerkit-helpers.php:303
+msgid "B"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:159, core/core-powerkit-helpers.php:304,
+#: modules/social-links/helpers/helper-powerkit-links-api.php:1000
+msgid "M"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:160, core/core-powerkit-helpers.php:305,
+#: modules/social-links/helpers/helper-powerkit-links-api.php:998
+msgid "K"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:196
+msgid "right now"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:201
+msgid " seconds ago"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:206
+msgid "about 1 minute ago"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:211
+msgid " minutes ago"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:216
+msgid "about 1 hour ago"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:221
+msgid " hours ago"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:226
+msgid "yesterday"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:231
+msgid " days ago"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:235
+msgid "over a year ago"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:321
+msgid "second"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:321
+msgid "minute"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:321
+msgid "hour"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:321
+msgid "day"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:321
+msgid "week"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:321
+msgid "month"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:321
+msgid "year"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:321
+msgid "decade"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:327
+msgid "ago"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:724,
+#: modules/class-powerkit-custom-fonts.php:421,
+#: modules/basic-elements/templates/buttons.php:38,
+#: modules/basic-elements/templates/progressbars.php:33,
+#: modules/basic-elements/templates/separators.php:26,
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:188
+msgid "Style"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:729, core/core-powerkit-helpers.php:742,
+#: extensions/gallery/class-powerkit-gallery.php:224,
+#: extensions/gallery/class-powerkit-gallery.php:245,
+#: modules/author-box/public/class-powerkit-author-box-public.php:47,
+#: modules/basic-elements/templates/buttons.php:31,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:153,
+#: modules/social-links/public/class-powerkit-social-links-block.php:80
+msgid "Default"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:730
+msgid "Outline"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:731
+msgid "Squared"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:737,
+#: modules/basic-elements/templates/buttons.php:26
+msgid "Size"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:743,
+#: modules/basic-elements/templates/buttons.php:30,
+#: modules/instagram/public/class-powerkit-instagram-block.php:122,
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:93
+msgid "Small"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:744,
+#: modules/basic-elements/templates/buttons.php:32,
+#: modules/instagram/public/class-powerkit-instagram-block.php:123,
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:94
+msgid "Large"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:750
+msgid "Full Width"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:758
+msgid "Background Color"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:773
+msgid "Background Color Hover"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:788
+msgid "Text Color"
+msgstr ""
+
+#: core/core-powerkit-helpers.php:803
+msgid "Text Color Hover"
+msgstr ""
+
+#: core/core-powerkit-post-meta.php:22
+msgid "Category"
+msgstr ""
+
+#: core/core-powerkit-post-meta.php:23,
+#: extensions/connect/tab-instagram.php:143,
+#: extensions/connect/tab-twitter.php:128,
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:193,
+#: modules/posts/public/class-powerkit-posts-widget.php:255
+msgid "Date"
+msgstr ""
+
+#: core/core-powerkit-post-meta.php:24,
+#: modules/author-box/public/class-powerkit-author-box-block.php:70,
+#: modules/author-box/public/class-powerkit-author-box-block.php:105,
+#: modules/author-box/public/class-powerkit-author-box-widget.php:30,
+#: modules/author-box/public/class-powerkit-author-box-widget.php:51
+msgid "Author"
+msgstr ""
+
+#: core/core-powerkit-post-meta.php:25
+msgid "Comments count"
+msgstr ""
+
+#: core/core-powerkit-post-meta.php:29,
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:194,
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:346,
+#: modules/posts/public/class-powerkit-posts-widget.php:260
+msgid "Views"
+msgstr ""
+
+#: core/core-powerkit-post-meta.php:33
+msgid "Reading time"
+msgstr ""
+
+#. translators: %s: author name
+#: core/core-powerkit-post-meta.php:220
+msgid "View all posts by %s"
+msgstr ""
+
+#: core/core-powerkit-post-meta.php:274
+msgid "No comments"
+msgstr ""
+
+#: core/core-powerkit-post-meta.php:274
+msgid "One comment"
+msgstr ""
+
+#: core/core-powerkit-post-meta.php:274
+msgid "comments"
+msgstr ""
+
+#. translators: %s number of minutes
+#: core/core-powerkit-post-meta.php:305
+msgid "%s minute read"
+msgid_plural "%s minute read"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s number of post views
+#: core/core-powerkit-post-meta.php:347
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: modules/class-powerkit-custom-fonts.php:35,
+#: modules/class-powerkit-custom-fonts.php:101,
+#: modules/class-powerkit-custom-fonts.php:160,
+#: modules/class-powerkit-custom-fonts.php:210,
+#: modules/class-powerkit-custom-fonts.php:263
+msgid "Custom Fonts"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:36
+msgid "Adds the ability to download custom fonts."
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:43,
+#: modules/lazyload/class-powerkit-lazyload.php:27,
+#: modules/retina-images/class-powerkit-retina-images.php:27,
+#: modules/typekit-fonts/class-powerkit-typekit-fonts.php:27
+msgid "Advanced"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:49,
+#: modules/coming-soon/class-powerkit-coming-soon.php:29,
+#: modules/facebook/class-powerkit-facebook.php:32,
+#: modules/justified-gallery/class-powerkit-justified-gallery.php:29,
+#: modules/lazyload/class-powerkit-lazyload.php:30,
+#: modules/lightbox/class-powerkit-lightbox.php:29,
+#: modules/opt-in-forms/class-powerkit-opt-in-forms.php:29,
+#: modules/pinterest/class-powerkit-pinterest.php:29,
+#: modules/post-views/class-powerkit-post-views.php:55,
+#: modules/retina-images/class-powerkit-retina-images.php:30,
+#: modules/share-buttons/class-powerkit-share-buttons.php:29,
+#: modules/slider-gallery/class-powerkit-slider-gallery.php:29,
+#: modules/social-links/class-powerkit-social-links.php:33,
+#: modules/typekit-fonts/class-powerkit-typekit-fonts.php:33
+msgid "Go to settings"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:53,
+#: modules/author-box/class-powerkit-author-box.php:29,
+#: modules/basic-elements/class-powerkit-basic-elements.php:30,
+#: modules/coming-soon/class-powerkit-coming-soon.php:33,
+#: modules/content-formatting/class-powerkit-content-formatting.php:29,
+#: modules/contributors/class-powerkit-contributors.php:29,
+#: modules/facebook/class-powerkit-facebook.php:36,
+#: modules/featured-categories/class-powerkit-featured-categories.php:29,
+#: modules/headers-footers/class-powerkit-headers-footers.php:29,
+#: modules/inline-posts/class-powerkit-inline-posts.php:29,
+#: modules/instagram/class-powerkit-instagram.php:40,
+#: modules/justified-gallery/class-powerkit-justified-gallery.php:33,
+#: modules/lazyload/class-powerkit-lazyload.php:34,
+#: modules/lightbox/class-powerkit-lightbox.php:33,
+#: modules/opt-in-forms/class-powerkit-opt-in-forms.php:33,
+#: modules/pinterest/class-powerkit-pinterest.php:33,
+#: modules/post-views/class-powerkit-post-views.php:59,
+#: modules/posts/class-powerkit-posts.php:29,
+#: modules/reading-time/class-powerkit-reading-time.php:29,
+#: modules/retina-images/class-powerkit-retina-images.php:34,
+#: modules/scroll-to-top/class-powerkit-scroll-to-top.php:29,
+#: modules/share-buttons/class-powerkit-share-buttons.php:37,
+#: modules/slider-gallery/class-powerkit-slider-gallery.php:33,
+#: modules/social-links/class-powerkit-social-links.php:45,
+#: modules/table-of-contents/class-powerkit-table-of-contents.php:29,
+#: modules/twitter/class-powerkit-twitter.php:36,
+#: modules/typekit-fonts/class-powerkit-typekit-fonts.php:37
+msgid "View documentation"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:330,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:471,
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:60
+msgid "Instructions"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:334
+msgid "Font Squirrel"
+msgstr ""
+
+#. translators: args - format woff, format woff, format woff2, link webfont-generator.
+#: modules/class-powerkit-custom-fonts.php:337
+msgid ""
+"Prepare your webfont files in %1$s and %2$s formats. You may convert your "
+"%3$s fonts at %4$s."
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:340
+msgid "Upload your font files."
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:341
+msgid ""
+"Navigate to Appearance &rarr; Customise &rarr; Typography and select your "
+"font in typography controls under Custom Fonts."
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:352
+msgid "Add New Font"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:347
+msgid "Edit Font"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:349
+msgid " cancel "
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:357,
+#: modules/class-powerkit-custom-fonts.php:446,
+#: extensions/connect/tab-instagram.php:72,
+#: extensions/connect/tab-twitter.php:61,
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:92,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:143,
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:172
+msgid "Name"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:364
+msgid "Font .woff"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:370,
+#: modules/class-powerkit-custom-fonts.php:390
+msgid "Choose file.."
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:374,
+#: modules/class-powerkit-custom-fonts.php:394
+msgid "Add File"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:375,
+#: modules/class-powerkit-custom-fonts.php:395
+msgid "Remove"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:384
+msgid "Font .woff2"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:404
+msgid "Weight"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:407
+msgid "100"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:408
+msgid "200"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:409
+msgid "300"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:410
+msgid "400 (regular)"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:411
+msgid "500"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:412
+msgid "600"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:413
+msgid "700"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:414
+msgid "800"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:415
+msgid "900"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:424
+msgid "normal"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:425
+msgid "italic"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:436
+msgid "Add Font"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:434
+msgid "Save Change"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:447,
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:173
+msgid "Font Family"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:448,
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:174
+msgid "Font Weight"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:449,
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:175
+msgid "Font Style"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:538
+msgid "No fonts found. Add new fonts with the form to the left."
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:496
+msgid "Edit"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:499,
+#: extensions/connect/tab-instagram.php:171,
+#: extensions/connect/tab-twitter.php:147
+msgid "Delete"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:502
+msgid "View Code"
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:590
+msgid "Font successfully deleted."
+msgstr ""
+
+#: modules/class-powerkit-custom-fonts.php:646,
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:217,
+#: modules/headers-footers/admin/class-powerkit-headers-footers-admin.php:105,
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:166,
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:231,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:623,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:303,
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:155,
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:240
+msgid "Settings saved."
+msgstr ""
+
+#: extensions/connect/class-powerkit-connect.php:44,
+#: extensions/connect/class-powerkit-connect.php:44,
+#: extensions/connect/class-powerkit-connect.php:61,
+#: modules/instagram/class-powerkit-instagram.php:32,
+#: modules/social-links/class-powerkit-social-links.php:37
+msgid "Connect"
+msgstr ""
+
+#: extensions/connect/class-powerkit-connect.php:54,
+#: extensions/fonts/class-powerkit-fonts.php:60,
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:111,
+#: modules/headers-footers/admin/class-powerkit-headers-footers-admin.php:41,
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:41,
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:57,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:135,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:85,
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:41
+msgid "You do not have sufficient rights to view this page."
+msgstr ""
+
+#: extensions/connect/class-powerkit-connect.php:158
+msgid "The list of social network settings is empty!!!"
+msgstr ""
+
+#: extensions/connect/class-powerkit-connect.php:148,
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:184,
+#: modules/headers-footers/admin/class-powerkit-headers-footers-admin.php:80,
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:132,
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:179,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:496,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:235,
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:107
+msgid "Save changes"
+msgstr ""
+
+#: extensions/connect/class-powerkit-connect.php:252,
+#: extensions/connect/class-powerkit-connect.php:280,
+#: extensions/connect/class-powerkit-connect.php:288,
+#: extensions/connect/class-powerkit-connect.php:316
+msgid "The settings are saved."
+msgstr ""
+
+#: extensions/connect/class-powerkit-connect.php:359
+msgid "Account disabled successfully."
+msgstr ""
+
+#: extensions/connect/class-powerkit-connect.php:470
+msgid "Cache purged."
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:54,
+#: extensions/connect/tab-facebook.php:12
+msgid "Facebook Account"
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:56
+msgid ""
+"Connect your Facebook account to automatically fetch the number of followers "
+"of your Facebook page."
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:14
+msgid "✓ Account successfully connected"
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:36
+msgid "Available Facebook page IDs:"
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:36
+msgid ". Please use one of these IDs in settings when requested."
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:32
+msgid "Your Facebook page ID:"
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:32
+msgid ". Please use this ID in settings when requested."
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:49,
+#: extensions/connect/tab-instagram.php:28,
+#: extensions/connect/tab-twitter.php:25
+msgid "Disconnect"
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:64,
+#: extensions/connect/tab-instagram.php:50,
+#: extensions/connect/tab-twitter.php:39
+msgid ""
+"You may also change the number of followers manually on <a href=\"%s\" "
+"target=\"_blank\">this page</a>."
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:69,
+#: extensions/connect/tab-instagram.php:55,
+#: extensions/connect/tab-twitter.php:44
+msgid "Manual Settings"
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:76
+msgid "Facebook App ID"
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:81
+msgid ""
+"The Facebook App ID is required if you want to display Facebook comments or "
+"Fanpage block on your site."
+msgstr ""
+
+#: extensions/connect/tab-facebook.php:90,
+#: extensions/connect/tab-instagram.php:191,
+#: extensions/connect/tab-twitter.php:167
+msgid "Save manual settings"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:34
+msgid "Personal Account"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:36
+msgid "Used for displaying user feeds from a Personal Instagram account."
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:40
+msgid "Business Account"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:42
+msgid ""
+"Used for displaying user feeds from an Instagram Business or Creator account."
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:15
+msgid "Personal Instagram Account"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:13
+msgid "Business Instagram Account"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:18,
+#: extensions/connect/tab-twitter.php:15
+msgid "✓ Account"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:18,
+#: extensions/connect/tab-twitter.php:15
+msgid "successfully connected"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:20
+msgid "Your Instagram User ID:"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:20,
+#: extensions/connect/tab-twitter.php:17
+msgid "Please use this ID in settings when requested."
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:62,
+#: extensions/connect/tab-twitter.php:51,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:422,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:434
+msgid "Username"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:82,
+#: extensions/connect/tab-twitter.php:71,
+#: modules/instagram/public/instagram-template.php:62,
+#: modules/twitter/public/twitter-template.php:65
+msgid "Following"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:92,
+#: extensions/connect/tab-twitter.php:81,
+#: modules/instagram/public/instagram-template.php:68,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:35,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:48,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:61,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:100,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:113,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:126,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:139,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:165,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:178,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:191,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:204,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:233,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:282,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:306,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:344,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:357,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:370,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:407,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:443,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:455,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:467,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:479,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:491,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:503,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:515,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:527,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:539,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:551,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:563,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:575,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:587,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:599,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:611,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:623,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:635,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:647,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:659,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:671,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:683,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:695,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:707,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:719,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:731,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:743,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:755,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:767,
+#: modules/twitter/public/twitter-template.php:68
+msgid "Followers"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:102,
+#: extensions/connect/tab-twitter.php:91
+msgid "Profile Image"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:112,
+#: extensions/connect/tab-twitter.php:101
+msgid "Profile Image (2x)"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:123,
+#: extensions/connect/tab-twitter.php:112
+msgid "Manual Feed Settings"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:179,
+#: extensions/connect/tab-twitter.php:155
+msgid "The list is empty, you can add new items."
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:135,
+#: extensions/connect/tab-twitter.php:124,
+#: modules/widget-about/public/class-powerkit-widget-about-init.php:118
+msgid "Text"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:139
+msgid "Instagram Link"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:147
+msgid "Image Thumbnail URL"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:151
+msgid "Image Small URL"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:155
+msgid "Image Large URL"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:159
+msgid "Likes Count"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:163
+msgid "Comments Count"
+msgstr ""
+
+#: extensions/connect/tab-instagram.php:185,
+#: extensions/connect/tab-twitter.php:161
+msgid "Add New Element"
+msgstr ""
+
+#: extensions/connect/tab-twitter.php:29, extensions/connect/tab-twitter.php:13
+msgid "Twitter Account"
+msgstr ""
+
+#: extensions/connect/tab-twitter.php:31
+msgid ""
+"Connect your Twitter account to display your Twitter feed and the number of "
+"followers in Social Links."
+msgstr ""
+
+#: extensions/connect/tab-twitter.php:17
+msgid "Your Twitter User ID:"
+msgstr ""
+
+#: extensions/connect/tab-twitter.php:132
+msgid "Retweets Count"
+msgstr ""
+
+#: extensions/connect/tab-twitter.php:136
+msgid "Tweet ID"
+msgstr ""
+
+#: extensions/connect/tab-twitter.php:140
+msgid "Copy the Twitter ID from the share link, for example:"
+msgstr ""
+
+#: extensions/fonts/class-powerkit-fonts.php:42,
+#: extensions/fonts/class-powerkit-fonts.php:42,
+#: extensions/fonts/class-powerkit-fonts.php:64
+msgid "Fonts"
+msgstr ""
+
+#: extensions/fonts/class-powerkit-fonts.php:150
+msgid ""
+"Are you sure you want to delete this font and all the files downloaded from "
+"it?"
+msgstr ""
+
+#: extensions/fonts/class-powerkit-fonts.php:151
+msgid "Select or Upload Font"
+msgstr ""
+
+#: extensions/fonts/class-powerkit-fonts.php:152
+msgid "Use This File"
+msgstr ""
+
+#: extensions/gallery/class-powerkit-gallery.php:254,
+#: modules/basic-elements/templates/alerts.php:26,
+#: modules/basic-elements/templates/tabs.php:26,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:215,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:391
+msgid "Type"
+msgstr ""
+
+#: modules/author-box/class-powerkit-author-box.php:19
+msgid "Author Box"
+msgstr ""
+
+#: modules/author-box/class-powerkit-author-box.php:20
+msgid ""
+"Display a post author box in your sidebar, including author name, bio and "
+"avatar in multiple available layouts."
+msgstr ""
+
+#: modules/basic-elements/class-powerkit-basic-elements.php:19
+msgid "Basic Elements"
+msgstr ""
+
+#: modules/basic-elements/class-powerkit-basic-elements.php:20
+msgid ""
+"Basic shortcodes with a shortcode generator right in the WordPress editor."
+msgstr ""
+
+#: modules/coming-soon/class-powerkit-coming-soon.php:19,
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:35,
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:100,
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:100,
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:118,
+#: modules/coming-soon/public/class-powerkit-coming-soon-public.php:67,
+#: modules/coming-soon/public/class-powerkit-coming-soon-public.php:84
+msgid "Coming Soon"
+msgstr ""
+
+#: modules/coming-soon/class-powerkit-coming-soon.php:20
+msgid ""
+"Coming soon module to perfectly manage your coming soon, under construction "
+"website, under maintenance mode website and offline website."
+msgstr ""
+
+#: modules/content-formatting/class-powerkit-content-formatting.php:19
+msgid "Content Formatting"
+msgstr ""
+
+#: modules/content-formatting/class-powerkit-content-formatting.php:20
+msgid ""
+"A few nice extra content formatting features: numbered headings, styled "
+"lists, badges, drop-caps, and content blocks."
+msgstr ""
+
+#: modules/contributors/class-powerkit-contributors.php:19,
+#: modules/contributors/public/class-powerkit-contributors-block.php:56,
+#: modules/contributors/public/class-powerkit-contributors-block.php:87,
+#: modules/contributors/public/class-powerkit-contributors-widget.php:30,
+#: modules/contributors/public/class-powerkit-contributors-widget.php:41
+msgid "Contributors"
+msgstr ""
+
+#: modules/contributors/class-powerkit-contributors.php:20
+msgid ""
+"Display a list of your site authors (contributors) in your sidebar, "
+"including author name, bio,  and avatar in multiple available layouts."
+msgstr ""
+
+#: modules/facebook/class-powerkit-facebook.php:19
+msgid "Facebook Integration"
+msgstr ""
+
+#: modules/facebook/class-powerkit-facebook.php:20
+msgid ""
+"Display your Facebook Fanpage widget in your sidebar or post content via a "
+"shortcode. Enable Facebook comments next to or instead of WordPress comments."
+msgstr ""
+
+#: modules/featured-categories/class-powerkit-featured-categories.php:19,
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:50,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:30,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:44
+msgid "Featured Categories"
+msgstr ""
+
+#: modules/featured-categories/class-powerkit-featured-categories.php:20
+msgid "Display Featured Categories."
+msgstr ""
+
+#: modules/headers-footers/class-powerkit-headers-footers.php:19
+msgid "Header and Footer Scripts"
+msgstr ""
+
+#: modules/headers-footers/class-powerkit-headers-footers.php:20
+msgid ""
+"You insert code like Google Analytics, custom CSS, Facebook Pixel, and more "
+"to your WordPress site header and footer."
+msgstr ""
+
+#: modules/inline-posts/class-powerkit-inline-posts.php:19,
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:131
+msgid "Inline Posts"
+msgstr ""
+
+#: modules/inline-posts/class-powerkit-inline-posts.php:20
+msgid ""
+"Display related posts inline with other post content for ultra-high "
+"conversion rate and user engagement in multiple different layouts."
+msgstr ""
+
+#: modules/instagram/class-powerkit-instagram.php:19
+msgid "Instagram Integration"
+msgstr ""
+
+#: modules/instagram/class-powerkit-instagram.php:20
+msgid ""
+"Display your Instagram feed in your sidebar with a widget or post content "
+"via a shortcode, including your Instagram profile image, number of followers,"
+" as well as number of comments and likes per each image in the feed."
+msgstr ""
+
+#: modules/instagram/class-powerkit-instagram.php:36,
+#: modules/share-buttons/class-powerkit-share-buttons.php:33,
+#: modules/social-links/class-powerkit-social-links.php:41,
+#: modules/twitter/class-powerkit-twitter.php:32
+msgid "Clear cache"
+msgstr ""
+
+#: modules/justified-gallery/class-powerkit-justified-gallery.php:19,
+#: modules/justified-gallery/admin/class-powerkit-justified-gallery-admin.php:31
+msgid "Justified Gallery"
+msgstr ""
+
+#: modules/justified-gallery/class-powerkit-justified-gallery.php:20
+msgid ""
+"Create beautiful tiled galleries with the Justified Gallery module. Control "
+"the image height and padding between images per gallery or globally."
+msgstr ""
+
+#: modules/lazyload/class-powerkit-lazyload.php:19,
+#: modules/lazyload/admin/class-powerkit-lazyload-admin.php:31
+msgid "Lazy Load"
+msgstr ""
+
+#: modules/lazyload/class-powerkit-lazyload.php:20
+msgid ""
+"The Lazy Load module enables loading images when a user scrolls close to "
+"them, making images load only when needed and saving the user’s bandwidth."
+msgstr ""
+
+#: modules/lightbox/class-powerkit-lightbox.php:19,
+#: modules/lightbox/admin/class-powerkit-lightbox-admin.php:31
+msgid "Lightbox"
+msgstr ""
+
+#: modules/lightbox/class-powerkit-lightbox.php:20
+msgid ""
+"Instead of opening images in a new window display them in a fullscreen "
+"Lightbox for a distraction-free user experience."
+msgstr ""
+
+#: modules/opt-in-forms/class-powerkit-opt-in-forms.php:19,
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:30,
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:30,
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:48
+msgid "Opt-in Forms"
+msgstr ""
+
+#: modules/opt-in-forms/class-powerkit-opt-in-forms.php:20
+msgid ""
+"Easily add opt-in (subscription) forms to your website and grow your "
+"subscribers’ list with the Opt-In Forms module."
+msgstr ""
+
+#: modules/pinterest/class-powerkit-pinterest.php:19
+msgid "Pinterest Integration"
+msgstr ""
+
+#: modules/pinterest/class-powerkit-pinterest.php:20
+msgid ""
+"Display your Pinterest Board widget in your sidebar or post content via "
+"shortcode. Enable Pin It buttons on single images in post content and all "
+"post galleries for the easy pinning of your images to Pinterest boards."
+msgstr ""
+
+#: modules/post-featured-ui/class-powerkit-post-featured-ui.php:19
+msgid "Post Featured UI"
+msgstr ""
+
+#: modules/post-format-ui/class-powerkit-post-format-ui.php:19
+msgid "Post Format UI"
+msgstr ""
+
+#: modules/post-views/class-powerkit-post-views.php:19,
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:48,
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:48
+msgid "Post Views"
+msgstr ""
+
+#: modules/post-views/class-powerkit-post-views.php:20
+msgid ""
+"This module links to your Google Analytics account to retrieve the pageviews "
+"for your posts."
+msgstr ""
+
+#: modules/post-views/class-powerkit-post-views.php:47
+msgid "Please deactivate the Post Views Counter plugin."
+msgstr ""
+
+#: modules/posts/class-powerkit-posts.php:19
+msgid "Posts"
+msgstr ""
+
+#: modules/posts/class-powerkit-posts.php:20
+msgid ""
+"Display a list of posts in your sidebar, including post meta and preview "
+"image in multiple available layouts."
+msgstr ""
+
+#: modules/reading-time/class-powerkit-reading-time.php:19
+msgid "Reading Time"
+msgstr ""
+
+#: modules/reading-time/class-powerkit-reading-time.php:20
+msgid "Let’s you easily add an estimated reading time to your WordPress posts."
+msgstr ""
+
+#: modules/retina-images/class-powerkit-retina-images.php:19,
+#: modules/retina-images/admin/class-powerkit-retina-images-admin.php:32
+msgid "Retina Images"
+msgstr ""
+
+#: modules/retina-images/class-powerkit-retina-images.php:20
+msgid ""
+"Make your images ultra-crisp on Retina screens with the Retina Images module "
+"integrated in Powerkit."
+msgstr ""
+
+#: modules/scroll-to-top/class-powerkit-scroll-to-top.php:19
+msgid "Scroll To Top Button"
+msgstr ""
+
+#: modules/scroll-to-top/class-powerkit-scroll-to-top.php:20
+msgid ""
+"A simple and light-weight Scroll To Top button will appear automatically as "
+"soon as a user scrolls past the first screen."
+msgstr ""
+
+#: modules/share-buttons/class-powerkit-share-buttons.php:19,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:123,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:123,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:142,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:190,
+#: modules/share-buttons/public/class-powerkit-share-buttons-block.php:89,
+#: modules/share-buttons/public/block/render.php:16
+msgid "Share Buttons"
+msgstr ""
+
+#: modules/share-buttons/class-powerkit-share-buttons.php:20
+msgid ""
+"Display share buttons in theme-predefined or standard locations. Select from "
+"various social networks and add per-button and the total share counts with "
+"just a few clicks."
+msgstr ""
+
+#: modules/slider-gallery/class-powerkit-slider-gallery.php:19,
+#: modules/slider-gallery/admin/class-powerkit-slider-gallery-admin.php:31
+msgid "Slider Gallery"
+msgstr ""
+
+#: modules/slider-gallery/class-powerkit-slider-gallery.php:20
+msgid ""
+"Create beautiful slider galleries with the Slider Gallery module. Show or "
+"hide slider bullets, current and total slide numbers, next and previous "
+"buttons per gallery or globally."
+msgstr ""
+
+#: modules/social-links/class-powerkit-social-links.php:19,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:74,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:74,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:91,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:111,
+#: modules/social-links/public/class-powerkit-social-links-block.php:97,
+#: modules/social-links/public/class-powerkit-social-links-shortcode.php:46,
+#: modules/social-links/public/class-powerkit-social-links-shortcode.php:79,
+#: modules/social-links/public/class-powerkit-social-links-widget.php:30,
+#: modules/social-links/public/class-powerkit-social-links-widget.php:45,
+#: modules/social-links/public/block/render.php:16
+msgid "Social Links"
+msgstr ""
+
+#: modules/social-links/class-powerkit-social-links.php:20
+msgid ""
+"Display a list of links to your social accounts with beautiful icons and "
+"followers’ counts in pre-defined theme locations, sidebar widget or post "
+"content via shortcode. Add social links for post authors with the help of "
+"the new user contact fields."
+msgstr ""
+
+#: modules/table-of-contents/class-powerkit-table-of-contents.php:19,
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:30,
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:30,
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:48,
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:62,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-block.php:59,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-public.php:40,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-shortcode.php:47,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-shortcode.php:56,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-widget.php:30,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-widget.php:42,
+#: modules/table-of-contents/public/block/render.php:16
+msgid "Table of Contents"
+msgstr ""
+
+#: modules/table-of-contents/class-powerkit-table-of-contents.php:20
+msgid ""
+"Display table of contents automatically with a shortcode or in a widget "
+"based on the page headings."
+msgstr ""
+
+#: modules/twitter/class-powerkit-twitter.php:19
+msgid "Twitter Integration"
+msgstr ""
+
+#: modules/twitter/class-powerkit-twitter.php:20
+msgid ""
+"Display your Twitter feed in your sidebar with a widget or post content via "
+"shortcode, including your Twitter profile image, number of followers, as "
+"well as number of replies and likes per each tweet in the feed."
+msgstr ""
+
+#: modules/typekit-fonts/class-powerkit-typekit-fonts.php:19,
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:35
+msgid "Adobe Fonts (formerly Typekit)"
+msgstr ""
+
+#: modules/typekit-fonts/class-powerkit-typekit-fonts.php:20
+msgid ""
+"Easily integrate Adobe fonts on your site by using the Adobe Fonts module."
+msgstr ""
+
+#: modules/widget-about/class-powerkit-widget-about.php:19
+msgid "About Widget"
+msgstr ""
+
+#: modules/widget-about/class-powerkit-widget-about.php:20
+msgid "Display Image, Text and Social Accounts."
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-block.php:91,
+#: modules/contributors/public/class-powerkit-contributors-block.php:78,
+#: modules/facebook/public/class-powerkit-facebook-fanpage-block.php:69,
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:67,
+#: modules/instagram/public/class-powerkit-instagram-block.php:71,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-block.php:71,
+#: modules/pinterest/public/class-powerkit-pinterest-block.php:68,
+#: modules/share-buttons/public/class-powerkit-share-buttons-block.php:106,
+#: modules/social-links/public/class-powerkit-social-links-block.php:114,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-block.php:81,
+#: modules/twitter/public/class-powerkit-twitter-block.php:70
+msgid "Block Settings"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-block.php:96,
+#: modules/instagram/public/class-powerkit-instagram-block.php:76,
+#: modules/twitter/public/class-powerkit-twitter-block.php:75
+msgid "Button Settings"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-block.php:113
+msgid "Background Image"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-block.php:120,
+#: modules/contributors/public/class-powerkit-contributors-block.php:99
+msgid "Display Avatar"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-block.php:127
+msgid "Display Description"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-block.php:134,
+#: modules/author-box/public/class-powerkit-author-box-widget.php:245
+msgid "Override Description"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-block.php:148
+msgid "Description Length"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-block.php:165
+msgid "Display Social Accounts"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-block.php:172
+msgid "Display Archive Button"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:96,
+#: modules/author-box/public/block/render.php:67
+msgid "Author not found."
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:179,
+#: modules/contributors/public/class-powerkit-contributors-widget.php:95,
+#: modules/facebook/public/class-powerkit-facebook-fanpage-widget.php:137,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:114,
+#: modules/instagram/public/class-powerkit-instagram-widget.php:116,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:108,
+#: modules/pinterest/public/class-powerkit-pinterest-board-widget.php:104,
+#: modules/pinterest/public/class-powerkit-pinterest-profile-widget.php:104,
+#: modules/posts/public/class-powerkit-posts-widget.php:211,
+#: modules/social-links/public/class-powerkit-social-links-widget.php:121,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-widget.php:101,
+#: modules/twitter/public/class-powerkit-twitter-widget.php:110,
+#: modules/widget-about/public/class-powerkit-widget-about-init.php:106
+msgid "Title:"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:185,
+#: modules/posts/public/class-powerkit-posts-widget.php:219,
+#: modules/social-links/public/class-powerkit-social-links-widget.php:148,
+#: modules/twitter/public/class-powerkit-twitter-widget.php:123
+msgid "Template:"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:198
+msgid "Author:"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:216,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:112
+msgid "Select or upload background image"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:216,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:112
+msgid "Set background image"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:218,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:114
+msgid "Background image:"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:231,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:127,
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:167
+msgid "Add Image"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:232,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:128
+msgid "Remove Image"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:238,
+#: modules/contributors/public/class-powerkit-contributors-widget.php:108
+msgid "Display avatar"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:242
+msgid "Display description"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:249
+msgid "Description Length:"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:255,
+#: modules/contributors/public/class-powerkit-contributors-widget.php:113
+msgid "Display social accounts"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:260
+msgid "Display post archive button"
+msgstr ""
+
+#: modules/author-box/public/class-powerkit-author-box-widget.php:264
+msgid "Display on posts of the author only"
+msgstr ""
+
+#: modules/author-box/public/widget-author-template.php:79,
+#: modules/featured-categories/helpers/helper-powerkit-featured-categories.php:103
+msgid "View Posts"
+msgstr "Voir les articles"
+
+#: modules/basic-elements/admin/class-powerkit-basic-elements-admin.php:202
+msgid "Delete Item"
+msgstr ""
+
+#: modules/basic-elements/admin/class-powerkit-basic-elements-admin.php:208
+msgid "Add Item"
+msgstr ""
+
+#: modules/basic-elements/admin/class-powerkit-basic-elements-admin.php:256
+msgid "Insert"
+msgstr ""
+
+#: modules/basic-elements/templates/alerts.php:14
+msgid "Alerts"
+msgstr ""
+
+#: modules/basic-elements/templates/alerts.php:21,
+#: modules/basic-elements/templates/progressbars.php:21,
+#: modules/basic-elements/templates/separators.php:21,
+#: modules/basic-elements/templates/tabs.php:21
+msgid "Options"
+msgstr ""
+
+#: modules/basic-elements/templates/alerts.php:30,
+#: modules/basic-elements/templates/buttons.php:47,
+#: modules/basic-elements/templates/progressbars.php:54
+msgid "Danger"
+msgstr ""
+
+#: modules/basic-elements/templates/alerts.php:31,
+#: modules/basic-elements/templates/buttons.php:45,
+#: modules/basic-elements/templates/progressbars.php:52
+msgid "Info"
+msgstr ""
+
+#: modules/basic-elements/templates/alerts.php:32,
+#: modules/basic-elements/templates/buttons.php:48,
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:32
+msgid "Link"
+msgstr ""
+
+#: modules/basic-elements/templates/alerts.php:33,
+#: modules/basic-elements/templates/buttons.php:44,
+#: modules/basic-elements/templates/progressbars.php:51
+msgid "Success"
+msgstr ""
+
+#: modules/basic-elements/templates/alerts.php:34,
+#: modules/basic-elements/templates/buttons.php:46,
+#: modules/basic-elements/templates/progressbars.php:53
+msgid "Warning"
+msgstr ""
+
+#: modules/basic-elements/templates/alerts.php:40
+msgid "Display close button"
+msgstr ""
+
+#: modules/basic-elements/templates/alerts.php:46
+msgid "Multiline"
+msgstr ""
+
+#: modules/basic-elements/templates/alerts.php:51,
+#: modules/basic-elements/templates/alerts.php:56,
+#: modules/basic-elements/templates/collapsibles.php:21,
+#: modules/basic-elements/templates/collapsibles.php:41,
+#: modules/basic-elements/templates/tabs.php:47,
+#: modules/basic-elements/templates/tabs.php:67
+msgid "Content"
+msgstr ""
+
+#: modules/basic-elements/templates/alerts.php:82,
+#: modules/lightbox/public/class-powerkit-lightbox-public.php:70,
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:158
+msgid "Close"
+msgstr ""
+
+#: modules/basic-elements/templates/buttons.php:14
+msgid "Buttons"
+msgstr ""
+
+#: modules/basic-elements/templates/buttons.php:21
+msgid "Style Options"
+msgstr ""
+
+#: modules/basic-elements/templates/buttons.php:42,
+#: modules/basic-elements/templates/progressbars.php:49
+msgid "Primary"
+msgstr ""
+
+#: modules/basic-elements/templates/buttons.php:43,
+#: modules/basic-elements/templates/progressbars.php:50
+msgid "Secondary"
+msgstr ""
+
+#: modules/basic-elements/templates/buttons.php:54,
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:84
+msgid "Block"
+msgstr ""
+
+#: modules/basic-elements/templates/buttons.php:59
+msgid "Link Options"
+msgstr ""
+
+#: modules/basic-elements/templates/buttons.php:64
+msgid "URL"
+msgstr ""
+
+#: modules/basic-elements/templates/buttons.php:70
+msgid "Link target"
+msgstr ""
+
+#: modules/basic-elements/templates/buttons.php:74,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:166
+msgid "Open in same window"
+msgstr ""
+
+#: modules/basic-elements/templates/buttons.php:75,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:167
+msgid "Open in new window/tab"
+msgstr ""
+
+#: modules/basic-elements/templates/buttons.php:81,
+#: modules/basic-elements/templates/collapsibles.php:32,
+#: modules/basic-elements/templates/tabs.php:58,
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:139,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-shortcode.php:60,
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:219,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:188,
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:61,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-block.php:94,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-shortcode.php:55
+msgid "Title"
+msgstr ""
+
+#: modules/basic-elements/templates/buttons.php:91,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:173
+msgid "Apply \"nofollow\" attribute"
+msgstr ""
+
+#: modules/basic-elements/templates/collapsibles.php:14,
+#: modules/basic-elements/templates/collapsibles.php:27
+msgid "Collapsibles"
+msgstr ""
+
+#: modules/basic-elements/templates/collapsibles.php:51
+msgid "Opened"
+msgstr ""
+
+#: modules/basic-elements/templates/progressbars.php:14
+msgid "Progress Bars"
+msgstr ""
+
+#: modules/basic-elements/templates/progressbars.php:26
+msgid "Value"
+msgstr ""
+
+#: modules/basic-elements/templates/progressbars.php:38
+msgid "Height (thickness)"
+msgstr ""
+
+#: modules/basic-elements/templates/progressbars.php:45
+msgid "Color"
+msgstr ""
+
+#: modules/basic-elements/templates/progressbars.php:60
+msgid "Display value"
+msgstr ""
+
+#: modules/basic-elements/templates/progressbars.php:66
+msgid "Striped"
+msgstr ""
+
+#: modules/basic-elements/templates/progressbars.php:72
+msgid "Animated"
+msgstr ""
+
+#: modules/basic-elements/templates/separators.php:14
+msgid "Separators"
+msgstr ""
+
+#: modules/basic-elements/templates/separators.php:30
+msgid "Solid"
+msgstr ""
+
+#: modules/basic-elements/templates/separators.php:31
+msgid "Double"
+msgstr ""
+
+#: modules/basic-elements/templates/separators.php:32
+msgid "Dotted"
+msgstr ""
+
+#: modules/basic-elements/templates/separators.php:33
+msgid "Dashed"
+msgstr ""
+
+#: modules/basic-elements/templates/separators.php:34
+msgid "Blank (empty space)"
+msgstr ""
+
+#: modules/basic-elements/templates/separators.php:40
+msgid "Height"
+msgstr ""
+
+#: modules/basic-elements/templates/tabs.php:14,
+#: modules/basic-elements/templates/tabs.php:30,
+#: modules/basic-elements/templates/tabs.php:53
+msgid "Tabs"
+msgstr ""
+
+#: modules/basic-elements/templates/tabs.php:31
+msgid "Pills"
+msgstr ""
+
+#: modules/basic-elements/templates/tabs.php:37
+msgid "Navigation type"
+msgstr ""
+
+#: modules/basic-elements/templates/tabs.php:41
+msgid "Horizontal"
+msgstr ""
+
+#: modules/basic-elements/templates/tabs.php:42
+msgid "Vertical"
+msgstr ""
+
+#. translators: Link deactivate.
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:70
+msgid ""
+"The Coming Soon is active. Please don't forget to <a href=\"%1$s\">"
+"deactivate</a> as soon as you are done."
+msgstr ""
+
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:88
+msgid "Coming Soon Page"
+msgstr ""
+
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:126
+msgid "Status"
+msgstr ""
+
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:128
+msgid "Activated"
+msgstr ""
+
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:130
+msgid "Deactivated"
+msgstr ""
+
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:157
+msgid "Pages no found."
+msgstr ""
+
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:146
+msgid "Content from Page"
+msgstr ""
+
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:149,
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:99,
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:87
+msgid "- not selected -"
+msgstr ""
+
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:163
+msgid "Notice"
+msgstr ""
+
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:166
+msgid "Yes"
+msgstr ""
+
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:167
+msgid "No"
+msgstr ""
+
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:169
+msgid "Do you want to see notices when maintenance mode is activated?"
+msgstr ""
+
+#: modules/coming-soon/admin/class-powerkit-coming-soon-admin.php:175
+msgid "HTTP status code"
+msgstr ""
+
+#: modules/coming-soon/public/class-powerkit-coming-soon-public.php:87
+msgid "Get Ready... Something Really Cool Is Coming Soon"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:44
+msgid "Drop Cap"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:47
+msgid "Simple"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:53
+msgid "Bordered"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:59
+msgid "Border Right"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:65
+msgid "Background Light"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:71
+msgid "Background Inverse"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:79
+msgid "Callout"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:87
+msgid "Borders"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:90
+msgid "Top"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:95
+msgid "Bottom"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:100,
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:141,
+#: modules/social-links/public/class-powerkit-social-links-block.php:81
+msgid "Left"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:105,
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:146,
+#: modules/social-links/public/class-powerkit-social-links-block.php:83
+msgid "Right"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:117
+msgid "Background"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:121
+msgid "Light"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:126
+msgid "Inverse"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:133
+msgid "Shadows"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:138
+msgid "Alignment"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:155
+msgid "Numbered Headings"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:158
+msgid "Heading 2"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:163
+msgid "Heading 3"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:168
+msgid "Heading 4"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:173
+msgid "Heading 5"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:178
+msgid "Heading 6"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:185
+msgid "Lists"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:195
+msgid "Positive"
+msgstr ""
+
+#: modules/content-formatting/admin/class-powerkit-content-formatting-admin.php:202
+msgid "Negative"
+msgstr ""
+
+#: modules/contributors/helpers/helper-powerkit-contributors.php:106
+msgid "Latest from %s:"
+msgstr ""
+
+#: modules/contributors/public/class-powerkit-contributors-block.php:106
+msgid "Display Social Links"
+msgstr ""
+
+#: modules/contributors/public/class-powerkit-contributors-block.php:113
+msgid "Display Bio"
+msgstr ""
+
+#: modules/contributors/public/class-powerkit-contributors-block.php:120
+msgid "Display Recent Posts"
+msgstr ""
+
+#: modules/contributors/public/class-powerkit-contributors-block.php:127
+msgid "Number of Recent Posts"
+msgstr ""
+
+#: modules/contributors/public/class-powerkit-contributors-widget.php:100
+msgid "Filter by authors:"
+msgstr ""
+
+#: modules/facebook/admin/class-powerkit-facebook-admin.php:32
+msgid "Facebook Comments"
+msgstr ""
+
+#: modules/facebook/admin/class-powerkit-facebook-admin.php:34
+msgid "Enable Facebook Comments"
+msgstr ""
+
+#: modules/facebook/admin/class-powerkit-facebook-admin.php:35
+msgid "Number of Comments"
+msgstr ""
+
+#: modules/facebook/admin/class-powerkit-facebook-admin.php:44
+msgid "Location"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-block.php:48,
+#: modules/facebook/public/class-powerkit-facebook-fanpage-shortcode.php:66,
+#: modules/facebook/public/class-powerkit-facebook-fanpage-widget.php:30,
+#: modules/facebook/public/class-powerkit-facebook-fanpage-widget.php:43
+msgid "Facebook Fanpage"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-block.php:82
+msgid "Facebook Fanpage URL"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-block.php:89
+msgid "Display Cover"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-block.php:96
+msgid "Display Facepile"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-block.php:103
+msgid "Display Posts"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-block.php:110
+msgid "Small Header"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-shortcode.php:52,
+#: modules/facebook/public/class-powerkit-facebook-fanpage-widget.php:83
+msgid "The \"Facebook Fanpage URL\" field is required!"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-shortcode.php:74
+msgid "Facebook fanpage URL"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-shortcode.php:79,
+#: modules/facebook/public/class-powerkit-facebook-fanpage-widget.php:146
+msgid "Hide cover"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-shortcode.php:85,
+#: modules/facebook/public/class-powerkit-facebook-fanpage-widget.php:150
+msgid "Show facepile"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-shortcode.php:91,
+#: modules/facebook/public/class-powerkit-facebook-fanpage-widget.php:154
+msgid "Show posts"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-shortcode.php:97,
+#: modules/facebook/public/class-powerkit-facebook-fanpage-widget.php:158
+msgid "Small header"
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-widget.php:41
+msgid "A Facebook Fanpage widget."
+msgstr ""
+
+#: modules/facebook/public/class-powerkit-facebook-fanpage-widget.php:141
+msgid "Facebook fanpage URL:"
+msgstr ""
+
+#: modules/facebook/public/facebook-comments-template.php:20
+msgid "The Facebook App ID is not provided, please add it on the"
+msgstr ""
+
+#: modules/featured-categories/admin/class-powerkit-featured-categories-admin.php:36,
+#: modules/featured-categories/admin/class-powerkit-featured-categories-admin.php:68
+msgid "Featured Image"
+msgstr ""
+
+#: modules/featured-categories/admin/class-powerkit-featured-categories-admin.php:38,
+#: modules/featured-categories/admin/class-powerkit-featured-categories-admin.php:71
+msgid "Select or upload image"
+msgstr ""
+
+#: modules/featured-categories/admin/class-powerkit-featured-categories-admin.php:38,
+#: modules/featured-categories/admin/class-powerkit-featured-categories-admin.php:71
+msgid "Set image"
+msgstr ""
+
+#: modules/featured-categories/admin/class-powerkit-featured-categories-admin.php:44,
+#: modules/featured-categories/admin/class-powerkit-featured-categories-admin.php:86
+msgid "Upload image"
+msgstr ""
+
+#: modules/featured-categories/admin/class-powerkit-featured-categories-admin.php:45,
+#: modules/featured-categories/admin/class-powerkit-featured-categories-admin.php:87
+msgid "Remove image"
+msgstr ""
+
+#: modules/featured-categories/admin/class-powerkit-featured-categories-admin.php:49,
+#: modules/featured-categories/admin/class-powerkit-featured-categories-admin.php:91
+msgid "This image is used in the category blocks."
+msgstr ""
+
+#: modules/featured-categories/helpers/helper-powerkit-featured-categories.php:16
+msgid "Tiles"
+msgstr ""
+
+#: modules/featured-categories/helpers/helper-powerkit-featured-categories.php:24
+msgid "Vertical List"
+msgstr ""
+
+#: modules/featured-categories/helpers/helper-powerkit-featured-categories.php:96
+msgid " Posts"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:72
+msgid "Color Settings"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:80
+msgid "Filter by Categories"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:87,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:141
+msgid "Order By"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:93,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:144
+msgid "Posts count"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:94,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:145
+msgid "Filter include"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:95,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:146
+msgid "ID"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:101,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:152,
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:201,
+#: modules/posts/public/class-powerkit-posts-widget.php:267,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:229,
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:133
+msgid "Order"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:106,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:154,
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:206
+msgid "ASC"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:107,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:155,
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:205
+msgid "DESC"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:113,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:160
+msgid "Maximum count"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:123,
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:165
+msgid "Display number posts"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:130
+msgid "Background Overlay"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-block.php:143
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:122
+msgid "Layouts"
+msgstr ""
+
+#: modules/featured-categories/public/class-powerkit-featured-categories-widget.php:133
+msgid "Filter by categories:"
+msgstr ""
+
+#: modules/headers-footers/admin/class-powerkit-headers-footers-admin.php:30,
+#: modules/headers-footers/admin/class-powerkit-headers-footers-admin.php:30,
+#: modules/headers-footers/admin/class-powerkit-headers-footers-admin.php:48
+msgid "Insert Headers & Footers"
+msgstr ""
+
+#: modules/headers-footers/admin/class-powerkit-headers-footers-admin.php:58
+msgid "Scripts in Header"
+msgstr ""
+
+#: modules/headers-footers/admin/class-powerkit-headers-footers-admin.php:59
+msgid "These scripts will be printed in the &lt;head&gt; section."
+msgstr ""
+
+#: modules/headers-footers/admin/class-powerkit-headers-footers-admin.php:69
+msgid "Scripts in Footer"
+msgstr ""
+
+#: modules/headers-footers/admin/class-powerkit-headers-footers-admin.php:70
+msgid "These scripts will be printed above the &lt;/body&gt; tag."
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-public.php:69
+msgid "List"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-public.php:73
+msgid "Grid"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-public.php:77
+msgid "Grid 2"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-public.php:81
+msgid "Grid 3"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-public.php:85
+msgid "Grid 4"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:145
+msgid "Count"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:151
+msgid "Offset"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:157
+msgid "Image size"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:163
+msgid "Filter by categories"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:164
+msgid ""
+"Add comma-separated list of category slugs. For example: &laquo;travel, "
+"lifestyle, food&raquo;. Leave empty for all categories."
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:170
+msgid "Filter by tags"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:171
+msgid ""
+"Add comma-separated list of tag slugs. For example: &laquo;worth-reading, "
+"top-5, playlists&raquo;. Leave empty for all tags."
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:177
+msgid "Filter by posts"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:178
+msgid ""
+"Add comma-separated list of post IDs. For example: 12, 34, 145. Leave empty "
+"for all posts."
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:189
+msgid "Order posts by"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:213
+msgid "Filter by time frame"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:214
+msgid "Work only if Order by Views"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:215
+msgid ""
+"Add period of posts in English. For example: &laquo;2 months&raquo;, &laquo;"
+"14 days&raquo; or even &laquo;1 year&raquo;"
+msgstr ""
+
+#: modules/inline-posts/public/class-powerkit-inline-posts-shortcode.php:235,
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:116,
+#: modules/instagram/public/class-powerkit-instagram-widget.php:155,
+#: modules/social-links/public/class-powerkit-social-links-block.php:66,
+#: modules/social-links/public/class-powerkit-social-links-shortcode.php:118,
+#: modules/twitter/public/class-powerkit-twitter-shortcode.php:75
+msgid "Template"
+msgstr ""
+
+#: modules/instagram/helpers/helper-powerkit-instagram-connect-list.php:19,
+#: modules/instagram/public/class-powerkit-instagram-block.php:49,
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:48,
+#: modules/instagram/public/class-powerkit-instagram-widget.php:30,
+#: modules/instagram/public/class-powerkit-instagram-widget.php:44,
+#: modules/social-links/helpers/helper-powerkit-links-connect-list.php:25,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:47
+msgid "Instagram"
+msgstr ""
+
+#: modules/instagram/helpers/helper-powerkit-instagram.php:199,
+#: modules/twitter/helpers/helper-powerkit-twitter.php:110,
+#: modules/twitter/public/twitter-template.php:149
+msgid ""
+"No data found, please fill in the fields on the <a href=\"%s\" "
+"target=\"_blank\">settings page</a>."
+msgstr ""
+
+#: modules/instagram/helpers/helper-powerkit-instagram.php:196,
+#: modules/instagram/public/instagram-template.php:109,
+#: modules/twitter/helpers/helper-powerkit-twitter.php:107,
+#: modules/twitter/public/twitter-template.php:122
+msgid ""
+"The list is empty. To display the feed, add elements on the <a href=\"%s\" "
+"target=\"_blank\">settings page</a>."
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-block.php:50
+msgid "The block allows you to display images from your instagram account."
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-block.php:85,
+#: modules/twitter/public/class-powerkit-twitter-block.php:84
+msgid "Display Header"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-block.php:92,
+#: modules/twitter/public/class-powerkit-twitter-block.php:91
+msgid "Display Follow Button"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-block.php:99
+msgid "Number of Images"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-block.php:108
+msgid "Number of Columns"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-block.php:117
+msgid "Photo Size"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-block.php:121,
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:92
+msgid "Thumbnail"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-block.php:129
+msgid "Open Links In"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-block.php:133,
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:103,
+#: modules/instagram/public/class-powerkit-instagram-widget.php:148
+msgid "New window (_blank)"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-block.php:134,
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:104,
+#: modules/instagram/public/class-powerkit-instagram-widget.php:149
+msgid "Current window (_self)"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:56,
+#: modules/instagram/public/class-powerkit-instagram-widget.php:122,
+#: modules/twitter/public/class-powerkit-twitter-shortcode.php:57,
+#: modules/twitter/public/class-powerkit-twitter-widget.php:140
+msgid "Display header"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:62,
+#: modules/instagram/public/class-powerkit-instagram-widget.php:126,
+#: modules/twitter/public/class-powerkit-twitter-shortcode.php:63,
+#: modules/twitter/public/class-powerkit-twitter-widget.php:144
+msgid "Display follow button"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:68
+msgid "Number of images"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:74
+msgid "Number of columns"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:77,
+#: modules/instagram/public/class-powerkit-instagram-widget.php:138
+msgid "1"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:78,
+#: modules/instagram/public/class-powerkit-instagram-widget.php:139
+msgid "2"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:79,
+#: modules/instagram/public/class-powerkit-instagram-widget.php:140
+msgid "3"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:80
+msgid "4"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:81
+msgid "5"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:82
+msgid "6"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:83
+msgid "7"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:89
+msgid "Photo size"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-shortcode.php:100
+msgid "Open links in"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-widget.php:42
+msgid "Instagram widget."
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-widget.php:130
+msgid "Number of images:"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-widget.php:136
+msgid "Number of columns:"
+msgstr ""
+
+#: modules/instagram/public/class-powerkit-instagram-widget.php:146
+msgid "Open links in:"
+msgstr ""
+
+#: modules/instagram/public/instagram-template.php:115,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:258,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:319,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:332,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:419,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:431,
+#: modules/twitter/public/twitter-template.php:130
+msgid "Follow"
+msgstr ""
+
+#: modules/justified-gallery/admin/class-powerkit-justified-gallery-admin.php:33
+msgid "Space between images"
+msgstr ""
+
+#: modules/justified-gallery/admin/class-powerkit-justified-gallery-admin.php:34
+msgid "Row height"
+msgstr ""
+
+#: modules/justified-gallery/admin/class-powerkit-justified-gallery-admin.php:35
+msgid "Max row height"
+msgstr ""
+
+#: modules/justified-gallery/admin/class-powerkit-justified-gallery-admin.php:36
+msgid "Last row"
+msgstr ""
+
+#: modules/justified-gallery/admin/class-powerkit-justified-gallery-admin.php:61
+msgid "px"
+msgstr ""
+
+#: modules/justified-gallery/admin/class-powerkit-justified-gallery-admin.php:73
+msgid "px. The preferred height of rows."
+msgstr ""
+
+#: modules/justified-gallery/admin/class-powerkit-justified-gallery-admin.php:85
+msgid "px. Input -1 to remove the limit of the maximum row height."
+msgstr ""
+
+#: modules/justified-gallery/admin/class-powerkit-justified-gallery-admin.php:96
+msgid "No Justify"
+msgstr ""
+
+#: modules/justified-gallery/admin/class-powerkit-justified-gallery-admin.php:97
+msgid "Justify"
+msgstr ""
+
+#: modules/justified-gallery/admin/class-powerkit-justified-gallery-admin.php:98,
+#: modules/table-of-contents/helpers/helper-powerkit-table-of-contents.php:117,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-public.php:73
+msgid "Hide"
+msgstr ""
+
+#: modules/justified-gallery/public/class-powerkit-justified-gallery-public.php:33
+msgid "Justified"
+msgstr ""
+
+#: modules/lazyload/admin/class-powerkit-lazyload-admin.php:45
+msgid ""
+"Displays Low Quality Image Placeholders while the image is loading. Make "
+"sure you regenerate thumbnails after saving."
+msgstr ""
+
+#: modules/lightbox/admin/class-powerkit-lightbox-admin.php:33
+msgid "Single image selectors"
+msgstr ""
+
+#: modules/lightbox/admin/class-powerkit-lightbox-admin.php:34
+msgid "Gallery selectors"
+msgstr ""
+
+#: modules/lightbox/admin/class-powerkit-lightbox-admin.php:35,
+#: modules/pinterest/admin/class-powerkit-pinterest-admin.php:34
+msgid "Exclude selectors"
+msgstr ""
+
+#: modules/lightbox/admin/class-powerkit-lightbox-admin.php:36
+msgid "Display Lightbox zoom icon"
+msgstr ""
+
+#: modules/lightbox/admin/class-powerkit-lightbox-admin.php:61
+msgid ""
+"Lightbox will be enabled for images with these CSS classes only. Start every "
+"class with a new line."
+msgstr ""
+
+#: modules/lightbox/admin/class-powerkit-lightbox-admin.php:73
+msgid ""
+"Lightbox will be enabled for images inside containers with these CSS classes."
+" Start every class with a new line."
+msgstr ""
+
+#: modules/lightbox/admin/class-powerkit-lightbox-admin.php:85
+msgid ""
+"Lightbox will be disabled for images with these CSS classes. Start every "
+"class with a new line."
+msgstr ""
+
+#: modules/lightbox/public/class-powerkit-lightbox-public.php:68
+msgid "Previous"
+msgstr ""
+
+#: modules/lightbox/public/class-powerkit-lightbox-public.php:69
+msgid "Next"
+msgstr ""
+
+#: modules/lightbox/public/class-powerkit-lightbox-public.php:71
+msgid "Loading"
+msgstr ""
+
+#: modules/lightbox/public/class-powerkit-lightbox-public.php:72
+msgid "of"
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:52
+msgid "MailChimp"
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:58
+msgid "API Key"
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:64,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-block.php:84,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-shortcode.php:76,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:473,
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:62
+msgid "Log in to your"
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:64,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-block.php:84,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-shortcode.php:76
+msgid "MailChimp account"
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:65
+msgid ""
+"Click your profile name to expand the Account Panel, and choose Account."
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:66
+msgid "Click the Extras drop-down menu and choose API keys."
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:67
+msgid "Copy an existing API key or click the Create A Key button."
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:68
+msgid ""
+"Name your key descriptively, so you know what application uses that key."
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:107
+msgid "Invalid API Key or MailChimp access error!"
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:96
+msgid "Default Audience"
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:114
+msgid "Enable Double opt-in"
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:121
+msgid "Data Privacy Checkbox Label"
+msgstr ""
+
+#: modules/opt-in-forms/admin/class-powerkit-opt-in-forms-admin.php:122
+msgid ""
+"Enter the contents that should display as a label for the data privacy "
+"checkbox. Leave blank to disable."
+msgstr ""
+
+#: modules/opt-in-forms/helpers/helper-powerkit-opt-in-forms.php:13
+msgid ""
+"By checking this box, you confirm that you have read and are agreeing to our "
+"terms of use regarding the storage of the data submitted through this form."
+msgstr ""
+
+#: modules/opt-in-forms/helpers/helper-powerkit-opt-in-forms.php:85
+msgid "This client has not been approved to access this resource."
+msgstr ""
+
+#. translators: MailChimp Settings.
+#: modules/opt-in-forms/public/class-powerkit-opt-in-forms-public.php:115
+msgid ""
+"Please add your MailChimp Token in <object><a href=\"%s\" target=\"_blank\">"
+"Opt-In Forms Settings</a></object>."
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-opt-in-forms-public.php:111
+msgid ""
+"Please select the \"List\" for your subscription form in <object><a "
+"href=\"%s\" target=\"_blank\">Opt-In Forms Settings</a></object>."
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-opt-in-forms-public.php:89
+msgid "Enter your name"
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-opt-in-forms-public.php:92
+msgid "Enter your email"
+msgstr "Email"
+
+#: modules/opt-in-forms/public/class-powerkit-opt-in-forms-public.php:94
+msgid "Subscribe"
+msgstr "S'abonner"
+
+#: modules/opt-in-forms/public/class-powerkit-opt-in-forms-public.php:145
+msgid "Something is wrong with your list ID."
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-opt-in-forms-public.php:149
+msgid "Email is invalid."
+msgstr "Email invalide"
+
+#: modules/opt-in-forms/public/class-powerkit-opt-in-forms-public.php:187
+msgid "You are already subscribed."
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-opt-in-forms-public.php:183
+msgid ""
+"You have successfully subscribed. Confirm the subscription in your mailbox."
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-opt-in-forms-public.php:179
+msgid "You have successfully subscribed."
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-opt-in-forms-public.php:215
+msgid "Please confirm that you agree with our policies."
+msgstr "Veuillez confirmer que vous êtes d'accord avec nos CGU."
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-block.php:49
+msgid "Opt-In Form"
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-block.php:80,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-shortcode.php:75
+msgid "List ID"
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-block.php:82
+msgid "If empty, List ID from Settings &rarr; Opt-In Forms will be used."
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-block.php:85,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-shortcode.php:77
+msgid "Go to your Lists."
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-block.php:86,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-shortcode.php:78
+msgid "Select the desired list and in the drop-down menu and go to Settings."
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-block.php:87,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-shortcode.php:79
+msgid "Copy your list ID from the field “Unique ID for list …”."
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-block.php:96
+msgid "Display First Name Field"
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-block.php:97,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-shortcode.php:85,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:167
+msgid "Make sure you map the field in the MailChimp settings"
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-block.php:105
+msgid "Color Legend"
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-shortcode.php:52,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:30,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:47
+msgid "Subscription Form"
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-shortcode.php:65
+msgid "Background image ID"
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-shortcode.php:70
+msgid "Message"
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-shortcode.php:84,
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:166
+msgid "Display first name field"
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:41
+msgid "Add a subscription form to your sidebar."
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:133
+msgid "Subscribe message:"
+msgstr ""
+
+#: modules/opt-in-forms/public/class-powerkit-subscription-form-widget.php:151
+msgid "List:"
+msgstr ""
+
+#: modules/pinterest/admin/class-powerkit-pinterest-admin.php:31
+msgid "Pin It Button"
+msgstr ""
+
+#: modules/pinterest/admin/class-powerkit-pinterest-admin.php:33
+msgid "Image selectors"
+msgstr ""
+
+#: modules/pinterest/admin/class-powerkit-pinterest-admin.php:35
+msgid "Display on mouse hover only"
+msgstr ""
+
+#: modules/pinterest/admin/class-powerkit-pinterest-admin.php:59
+msgid ""
+"Only images with these CSS classes will show the \"Pin it\" button. The new "
+"conditions add a new row."
+msgstr ""
+
+#: modules/pinterest/admin/class-powerkit-pinterest-admin.php:71
+msgid ""
+"Images with these CSS classes won't show the \"Pin it\" button. The new "
+"conditions add a new row."
+msgstr ""
+
+#: modules/pinterest/public/class-powerkit-pinterest-block.php:48,
+#: modules/pinterest/public/class-powerkit-pinterest-board-widget.php:30,
+#: modules/pinterest/public/class-powerkit-pinterest-board-widget.php:38,
+#: modules/pinterest/public/class-powerkit-pinterest-shortcode.php:48
+msgid "Pinterest Board"
+msgstr ""
+
+#: modules/pinterest/public/class-powerkit-pinterest-block.php:81
+msgid "Pinterest Board URL"
+msgstr ""
+
+#: modules/pinterest/public/class-powerkit-pinterest-board-widget.php:36
+msgid "Add the Pinterest Board widget to your sidebar."
+msgstr ""
+
+#: modules/pinterest/public/class-powerkit-pinterest-board-widget.php:70,
+#: modules/pinterest/public/class-powerkit-pinterest-shortcode.php:34
+msgid "The \"Pinterest Board URL\" field is required!"
+msgstr ""
+
+#: modules/pinterest/public/class-powerkit-pinterest-board-widget.php:108
+msgid "Pinterest board URL:"
+msgstr ""
+
+#: modules/pinterest/public/class-powerkit-pinterest-profile-widget.php:30,
+#: modules/pinterest/public/class-powerkit-pinterest-profile-widget.php:38,
+#: modules/pinterest/public/class-powerkit-pinterest-shortcode.php:99
+msgid "Pinterest Profile"
+msgstr ""
+
+#: modules/pinterest/public/class-powerkit-pinterest-profile-widget.php:36
+msgid "Add the Pinterest Profile widget to your sidebar."
+msgstr ""
+
+#: modules/pinterest/public/class-powerkit-pinterest-profile-widget.php:70,
+#: modules/pinterest/public/class-powerkit-pinterest-shortcode.php:85
+msgid "The \"Pinterest Profile URL\" field is required!"
+msgstr ""
+
+#: modules/pinterest/public/class-powerkit-pinterest-profile-widget.php:108
+msgid "Pinterest profile URL:"
+msgstr ""
+
+#: modules/pinterest/public/class-powerkit-pinterest-shortcode.php:56
+msgid "Pinterest board URL"
+msgstr ""
+
+#: modules/pinterest/public/class-powerkit-pinterest-shortcode.php:107
+msgid "Pinterest profile URL"
+msgstr ""
+
+#: modules/post-featured-ui/admin/class-powerkit-post-featured-ui-admin.php:33,
+#: modules/post-featured-ui/admin/class-powerkit-post-featured-ui-admin.php:39
+msgid "Featured Locations"
+msgstr ""
+
+#: modules/post-featured-ui/admin/class-powerkit-post-featured-ui-admin.php:34
+msgid "Featured Location"
+msgstr ""
+
+#: modules/post-featured-ui/admin/class-powerkit-post-featured-ui-admin.php:35
+msgid "All Locations"
+msgstr ""
+
+#: modules/post-featured-ui/admin/class-powerkit-post-featured-ui-admin.php:76
+msgid "Post Archive"
+msgstr ""
+
+#: modules/post-featured-ui/admin/class-powerkit-post-featured-ui-admin.php:77
+msgid "Post Slider"
+msgstr ""
+
+#: modules/post-featured-ui/admin/class-powerkit-post-featured-ui-admin.php:78
+msgid "Post Tiles"
+msgstr ""
+
+#: modules/post-featured-ui/admin/class-powerkit-post-featured-ui-admin.php:79
+msgid "Post Carousel"
+msgstr ""
+
+#: modules/post-featured-ui/admin/class-powerkit-post-featured-ui-admin.php:80
+msgid "Posts Widget"
+msgstr ""
+
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:33
+msgid "Audio"
+msgstr ""
+
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:34
+msgid "Video"
+msgstr ""
+
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:35
+msgid "Gallery"
+msgstr ""
+
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:46,
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:77
+msgid "Enter URL"
+msgstr ""
+
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:148
+msgid "Add to gallery"
+msgstr ""
+
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:161
+msgid "Update"
+msgstr ""
+
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:167
+msgid "Select"
+msgstr ""
+
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:223
+msgid "Caption"
+msgstr ""
+
+#: modules/post-format-ui/admin/class-powerkit-post-format-ui-admin.php:227
+msgid "Alt Text"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:65
+msgid "Post Views Settings"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:126
+msgid "You are connected to Google Analytics with the e-mail address"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:128
+msgid "Disconnect from Google Analytics"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:130
+msgid "Empty page views cache"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:135
+msgid "GA4 Property ID"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:139
+msgid "To determine a Google Analytics 4 property Id:"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:141
+msgid "Visit Google Analytics at"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:144
+msgid "Select Admin."
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:145
+msgid "Select the Property."
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:146
+msgid "Select Property Settings."
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:147
+msgid ""
+"If the Property Settings shows a numeric \"PROPERTY ID\" such as \"123...\", "
+"this is the numeric Id of your Google Analytics 4 property."
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:153
+msgid "Start date for the analytics"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:158
+msgid "Default value when a count cannot be fetched"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:163
+msgid "Display the Views column in Posts list"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:168
+msgid "Search pageviews slugs with trailing slash"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:115
+msgid "Connect to Google Analytics"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:117
+msgid "Clear the API keys"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:77
+msgid ""
+"In order to connect to your Google Analytics Account, you need to create a "
+"new project in the <a href=\"https://console.developers.google.com/project\" "
+"target=\"_blank\">Google API Console</a> and activate the Analytics API in "
+"\"APIs &amp; Services\""
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:80
+msgid "Go to \"APIs &amp; Services\"."
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:81
+msgid ""
+"On the tab \"OAuth consent screen\" register the application, select \"User "
+"Type\" (External) and click \"Create\"."
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:82
+msgid ""
+"On the tab \"OAuth consent screen\" enter \"Application name\" and add your "
+"domain."
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:83
+msgid ""
+"Then, create an OAuth Client ID in \"APIs  &amp; Services > Credentials\" "
+"(Select \"Web application\", enter this URL %s for the \"Authorized redirect "
+"URIs\" field). "
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:84
+msgid ""
+"Enter your access below and connect to Google Analytics (if you have "
+"received a notice - \"This app is not verified\", then you can continue by "
+"clicking on \"Advanced\" link and follow the instructions)."
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:87
+msgid "Make sure to activate the following Google APIs:"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:90
+msgid "Google Analytics API"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:91
+msgid "Analytics Reporting API"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:92
+msgid "Google Analytics Data API"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:97
+msgid "Client ID"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:102
+msgid "Client secret"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:331
+msgid "Cache flushed successfully."
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:321
+msgid "Token refreshed successfully."
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:311
+msgid "API Keys removed."
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:256
+msgid "There was something wrong with Google!"
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:389
+msgid "Google Post Views Error: "
+msgstr ""
+
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:389,
+#: modules/post-views/admin/class-powerkit-post-views-admin.php:385
+msgid "Update settings"
+msgstr ""
+
+#: modules/post-views/helpers/helper-powerkit-post-views.php:78
+msgid "Failed to get data of Google Analytics."
+msgstr ""
+
+#: modules/post-views/helpers/helper-powerkit-post-views.php:144
+msgid "Failed to refresh token of Google Analytics."
+msgstr ""
+
+#: modules/post-views/helpers/helper-powerkit-post-views.php:141
+msgid "Failed to update token of Google Analytics."
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-public.php:59
+msgid "Simple List"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-public.php:63
+msgid "Numbered List"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-public.php:67
+msgid "Large Thumbnails"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:47
+msgid "Display a list of your featured posts."
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:49
+msgid "Featured Posts"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:233
+msgid "Post Type"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:248
+msgid "Number of posts:"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:253
+msgid "Order by:"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:256
+msgid "Comments"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:257
+msgid "Random"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:269
+msgid "Descending"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:270
+msgid "Ascending"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:275
+msgid "Time frame:"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:276
+msgid "3 months"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:280
+msgid "Category:"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:304
+msgid "Post meta:"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:318
+msgid "Compact post meta:"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:320
+msgid "Display compact post meta"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:323
+msgid "Avoid duplicate posts:"
+msgstr ""
+
+#: modules/posts/public/class-powerkit-posts-widget.php:325
+msgid "Exclude duplicate posts"
+msgstr ""
+
+#: modules/retina-images/admin/class-powerkit-retina-images-admin.php:34
+msgid "Sizes"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:501
+msgid "No available locations found."
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:170
+msgid "Advanced Settings"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:184
+msgid "Display Share Buttons"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:216
+msgid "[mobile only]"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:271,
+#: modules/share-buttons/public/class-powerkit-share-buttons-block.php:146,
+#: modules/social-links/public/class-powerkit-social-links-block.php:125
+msgid "Display Labels"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:279
+msgid "Display Total Share Count"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:287,
+#: modules/share-buttons/public/class-powerkit-share-buttons-block.php:160,
+#: modules/social-links/public/class-powerkit-social-links-block.php:139
+msgid "Display Counts"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:301
+msgid "Title Location"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:305,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:331,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:355
+msgid "Inside"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:309,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:335,
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:359
+msgid "Outside"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:327
+msgid "Label Location"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:351
+msgid "Count Location"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:372,
+#: modules/share-buttons/public/class-powerkit-share-buttons-block.php:72
+msgid "Layout"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:396
+msgid "Color Scheme"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:426
+msgid "Share Labels"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:451
+msgid "Recover social counts"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:452
+msgid ""
+"If enabled, the total share count will be displayed for both http and https "
+"versions of a page"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:457
+msgid "Enable recover counts"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:467
+msgid "Bitly Link Shortening"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:468
+msgid ""
+"If you like to have all of your links automatically shortened, enter your "
+"Access Token from bitly.com"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:473
+msgid "Bitly account"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:474
+msgid ""
+"Go to Settings → Advanced Settings → FOR DEVELOPERS OAuth → Generic Access "
+"Token"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:475
+msgid "Generate your Token"
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:476
+msgid "Copy your \"Token\""
+msgstr ""
+
+#: modules/share-buttons/admin/class-powerkit-share-buttons-admin.php:483
+msgid "Bitly API Token"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:28,
+#: modules/social-links/helpers/helper-powerkit-links-connect-list.php:19,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:21
+msgid "Facebook"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:29,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:234,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:257,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:281,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:306,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:330,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:354,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:378,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:402,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:482,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:506,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:530,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:554,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:587,
+#: modules/share-buttons/public/class-powerkit-share-buttons-public.php:320
+msgid "Share"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:74,
+#: modules/social-links/helpers/helper-powerkit-links-connect-list.php:31,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:34,
+#: modules/twitter/helpers/helper-powerkit-twitter-connect-list.php:19,
+#: modules/twitter/public/class-powerkit-twitter-block.php:49
+msgid "Twitter"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:75
+msgid "Tweet"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:194,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:60
+msgid "Pinterest"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:195
+msgid "Pin it"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:214
+msgid "Share Link"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:233,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:814
+msgid "Mail"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:256,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:257
+msgid "Xing"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:280,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:281
+msgid "LinkedIn"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:305
+msgid "StumbleUpon"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:329
+msgid "Pocket"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:353,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:802
+msgid "WhatsApp"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:377
+msgid "Facebook Messenger"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:401,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:790
+msgid "Viber"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:424,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:203
+msgid "Odnoklassniki"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:425,
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:449
+msgid "Like"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:448,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:232
+msgid "VK"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:481,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:99
+msgid "Telegram"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:505
+msgid "Line"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:529,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:381
+msgid "Reddit"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:553
+msgid "Mix.com"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons-list.php:586,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:766
+msgid "Flipboard"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons.php:561
+msgid "Total"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons.php:564
+msgid "Shares"
+msgstr ""
+
+#: modules/share-buttons/helpers/helper-powerkit-buttons.php:1020
+msgid "Social Accounts not found."
+msgstr ""
+
+#: modules/share-buttons/public/class-powerkit-share-buttons-block.php:116
+msgid "Accounts"
+msgstr ""
+
+#: modules/share-buttons/public/class-powerkit-share-buttons-block.php:132
+msgid "Display Total Shares"
+msgstr ""
+
+#: modules/share-buttons/public/class-powerkit-share-buttons-block.php:139
+msgid "Display Icons"
+msgstr ""
+
+#: modules/share-buttons/public/class-powerkit-share-buttons-block.php:153,
+#: modules/social-links/public/class-powerkit-social-links-block.php:132
+msgid "Display Titles"
+msgstr ""
+
+#: modules/slider-gallery/admin/class-powerkit-slider-gallery-admin.php:33
+msgid "Display page dots"
+msgstr ""
+
+#: modules/slider-gallery/admin/class-powerkit-slider-gallery-admin.php:34
+msgid "Display page info"
+msgstr ""
+
+#: modules/slider-gallery/admin/class-powerkit-slider-gallery-admin.php:35
+msgid "Display buttons to click to previous & next slide"
+msgstr ""
+
+#: modules/slider-gallery/public/class-powerkit-slider-gallery-public.php:33
+msgid "Slider"
+msgstr ""
+
+#: modules/slider-gallery/public/class-powerkit-slider-gallery-public.php:79
+msgid " of "
+msgstr ""
+
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:98
+msgid "General"
+msgstr ""
+
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:106
+msgid "General Settings"
+msgstr ""
+
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:164
+msgid "Link Target"
+msgstr ""
+
+#: modules/social-links/admin/class-powerkit-social-links-admin.php:194
+msgid "Label"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:193
+msgid "Please enter a pinterest user name."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:245
+msgid "Please enter a dribbble user name."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:303
+msgid "Please enter an YouTube User."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:362
+msgid "Please check your username or channel."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:387
+msgid "Please enter an Telegram Channel ID."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:445
+msgid "Please enter a SoundCloud User ID."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:474
+msgid "SoundCloud API Error."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:503
+msgid "Please enter a Vimeo User ID."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:561
+msgid "Please enter a Behance User ID."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:597
+msgid "Please check your username and client_id."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:626
+msgid "Please enter a flickr user id."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:659,
+#: modules/social-links/helpers/helper-powerkit-links-api.php:932
+msgid "Data not found. Please check your user ID."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:683
+msgid "Please enter a Medium User."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:746
+msgid "Please enter Reddit User or Subreddit Name."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:808
+msgid "Please enter a Group/Page ID."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-api.php:902
+msgid "Please enter a Strava User."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:22
+msgid "Likes"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:25
+msgid "Facebook User"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:26,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:39,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:52,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:62,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:66,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:91,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:104,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:117,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:130,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:169,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:182,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:195,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:224,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:249,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:310,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:323,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:348,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:361,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:398
+msgid "Manual Count Override"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:38
+msgid "Twitter User"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:51
+msgid "Instagram User"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:65
+msgid "Pinterest User"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:74
+msgid "YouTube"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:75,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:382
+msgid "Subscribers"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:84
+msgid "YouTube Channel Type"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:86,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:151,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:245,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:394
+msgid "User"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:87
+msgid "Channel"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:90
+msgid "YouTube User or Channel ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:103
+msgid "Telegram Channel ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:112
+msgid "Vimeo"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:116
+msgid "Vimeo User ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:125
+msgid "SoundCloud"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:129
+msgid "SoundCloud User ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:138
+msgid "Spotify"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:149
+msgid "Spotify Type"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:152,
+#: modules/table-of-contents/helpers/helper-powerkit-table-of-contents.php:115,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-public.php:72
+msgid "Show"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:153
+msgid "Artist"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:156
+msgid "Spotify User or Show ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:164
+msgid "Dribbble"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:168
+msgid "Dribbble User ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:177
+msgid "Behance"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:181
+msgid "Behance User ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:190,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:574
+msgid "GitHub"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:194,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:578
+msgid "GitHub User ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:217
+msgid "Profile ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:218
+msgid "Profile Name"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:219
+msgid "Group ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:220
+msgid "Group Name"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:223
+msgid "Odnoklassniki Slug / ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:242,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:267,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:291
+msgid "Profile Type"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:244
+msgid "Group"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:248
+msgid "Group or User ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:269,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:293
+msgid "Personal"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:270
+msgid "Company"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:273
+msgid "Xing Company or User ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:294
+msgid "Business"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:297
+msgid "LinkedIn Company or User ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:305
+msgid "Twitch"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:309
+msgid "Twitch Channel ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:318
+msgid "Flickr"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:322
+msgid "User ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:331
+msgid "Snapchat"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:335
+msgid "Account Name"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:343
+msgid "Medium"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:347
+msgid "Medium Username"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:356
+msgid "Strava"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:360
+msgid "Strava User ID"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:369
+msgid "Tumblr"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:373
+msgid "Tumblr URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:393
+msgid "Subreddit"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:397
+msgid "Subreddit Name or Reddit User "
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:406
+msgid "Bloglovin"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:410
+msgid "Bloglovin URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:418
+msgid "Weibo"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:430
+msgid "WeChat"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:442
+msgid "TikTok"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:446
+msgid "TikTok URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:454
+msgid "Discord"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:458
+msgid "Discord URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:466
+msgid "Steam"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:470
+msgid "Steam URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:478
+msgid "TripAdvisor"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:482
+msgid "TripAdvisor URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:490
+msgid "Thumbtack"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:494
+msgid "Thumbtack URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:502
+msgid "Android"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:506
+msgid "Android URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:514
+msgid "Apple"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:518
+msgid "Apple URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:526
+msgid "Meetup"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:530
+msgid "Meetup URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:538
+msgid "500px"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:542
+msgid "500px URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:550
+msgid "Yelp"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:554
+msgid "Yelp URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:562
+msgid "CodePen"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:566
+msgid "CodePen URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:586
+msgid "GitLab"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:590
+msgid "GitLab URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:598
+msgid "Bitbucket"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:602
+msgid "Bitbucket URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:610
+msgid "freeCodeCamp"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:614
+msgid "freeCodeCamp URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:622
+msgid "JSFiddle"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:626
+msgid "JSFiddle URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:634
+msgid "Delicious"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:638
+msgid "Delicious URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:646
+msgid "DeviantArt"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:650
+msgid "DeviantArt URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:658
+msgid "Foursquare"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:662
+msgid "Foursquare URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:670
+msgid "Houzz"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:674
+msgid "Houzz URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:682
+msgid "Product Hunt"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:686
+msgid "Product Hunt URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:694
+msgid "Slideshare"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:698
+msgid "Slideshare URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:706
+msgid "Goodreads"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:710
+msgid "Goodreads URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:718
+msgid "Mastodon"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:722
+msgid "Mastodon URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:730
+msgid "PixelFed"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:734
+msgid "PixelFed URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:742
+msgid "Micro.blog"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:746
+msgid "Micro.blog URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:754
+msgid "Google News"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:758
+msgid "Google News URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:770
+msgid "Flipboard URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:778,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:782,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:794,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:806
+msgid "Phone"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:779
+msgid "phone"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:791,
+#: modules/social-links/helpers/helper-powerkit-links-list.php:803
+msgid "Call"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:815
+msgid "Send"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:818
+msgid "Email"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:826
+msgid "RSS"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:827
+msgid "Feed"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links-list.php:830
+msgid "RSS URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:14
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:15
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:16
+msgid "Instagram Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:17
+msgid "Pinterest Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:18
+msgid "YouTube Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:19
+msgid "Telegram Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:20
+msgid "Vimeo Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:21
+msgid "SoundCloud Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:22
+msgid "Spotify Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:23
+msgid "Dribbble Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:24
+msgid "Behance Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:25
+msgid "GitHub Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:26
+msgid "VK Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:27
+msgid "LinkedIn Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:28
+msgid "Twitch Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:29
+msgid "Flickr Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:30
+msgid "Snapchat Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:31
+msgid "Medium Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:32
+msgid "Tumblr Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:33
+msgid "Bloglovin Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:34
+msgid "RSS Profile URL"
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:59
+msgid "Website"
+msgstr ""
+
+#. translators: Social Settings Link.
+#: modules/social-links/helpers/helper-powerkit-links.php:405
+msgid ""
+"Please select social links in <object><a href=\"%s\" target=\"_blank\">"
+"Social Links Settings</a></object>."
+msgstr ""
+
+#: modules/social-links/helpers/helper-powerkit-links.php:558
+msgid "Social Links not found."
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-block.php:75
+msgid "Aligning Items"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-block.php:82
+msgid "Center"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-block.php:146,
+#: modules/social-links/public/class-powerkit-social-links-shortcode.php:105
+msgid "Maximum number of social links"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-block.php:147,
+#: modules/social-links/public/class-powerkit-social-links-shortcode.php:106,
+#: modules/social-links/public/class-powerkit-social-links-widget.php:143
+msgid "Input -1 to remove the maximum limit of the social links."
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-shortcode.php:31
+msgid "Network name is incorrect!"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-shortcode.php:87
+msgid "Labels"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-shortcode.php:93
+msgid "Titles"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-shortcode.php:99
+msgid "Counts"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-shortcode.php:130
+msgid "Color scheme"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-widget.php:43
+msgid "Add a list of social links with fan counts to your sidebar."
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-widget.php:126
+msgid "Display labels"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-widget.php:130
+msgid "Display titles"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-widget.php:134
+msgid "Display counts"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-widget.php:138
+msgid "Maximum number of social links:"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-widget.php:168
+msgid "Color scheme:"
+msgstr ""
+
+#: modules/social-links/public/class-powerkit-social-links-widget.php:188
+msgid "Configure Social Links"
+msgstr ""
+
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:56
+msgid "Enable Table of Contents in all posts automatically"
+msgstr ""
+
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:67
+msgid "Exclude Posts"
+msgstr ""
+
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:68
+msgid ""
+"Enter a comma-separated list of post IDs where you’d like to avoid Table of "
+"Contents to appear."
+msgstr ""
+
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:74,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-shortcode.php:61
+msgid "Depth of headings"
+msgstr ""
+
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:79,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-block.php:110,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-shortcode.php:67
+msgid "Minimum number of headings in page content"
+msgstr ""
+
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:84,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-block.php:119,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-shortcode.php:73
+msgid "Minimum number of characters of post content"
+msgstr ""
+
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:89,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-block.php:128,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-shortcode.php:79
+msgid "Display Button ShowHide"
+msgstr ""
+
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:94,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-block.php:135,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-shortcode.php:85
+msgid "Default State"
+msgstr ""
+
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:97,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-block.php:140,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-shortcode.php:88,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-widget.php:132
+msgid "Expanded"
+msgstr ""
+
+#: modules/table-of-contents/admin/class-powerkit-table-of-contents-admin.php:98,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-block.php:141,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-shortcode.php:89,
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-widget.php:133
+msgid "Collapsed"
+msgstr ""
+
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-block.php:101
+msgid "Depth of Headings"
+msgstr ""
+
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-widget.php:40
+msgid "Add a table of contents to your sidebar."
+msgstr ""
+
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-widget.php:106
+msgid "Depth of headings:"
+msgstr ""
+
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-widget.php:112
+msgid "Minimum number of headings in page content:"
+msgstr ""
+
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-widget.php:118
+msgid "Minimum number of characters of post content:"
+msgstr ""
+
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-widget.php:124
+msgid "Display Button ShowHide:"
+msgstr ""
+
+#: modules/table-of-contents/public/class-powerkit-table-of-contents-widget.php:130
+msgid "Default State:"
+msgstr ""
+
+#: modules/twitter/helpers/helper-powerkit-twitter.php:91,
+#: modules/twitter/public/class-powerkit-twitter-shortcode.php:21,
+#: modules/twitter/public/class-powerkit-twitter-shortcode.php:43,
+#: modules/twitter/public/class-powerkit-twitter-widget.php:30,
+#: modules/twitter/public/class-powerkit-twitter-widget.php:41,
+#: modules/twitter/public/block/render.php:16
+msgid "Twitter Feed"
+msgstr ""
+
+#: modules/twitter/public/class-powerkit-twitter-block.php:50
+msgid "The block allows you to display feed from your twitter account."
+msgstr ""
+
+#: modules/twitter/public/class-powerkit-twitter-block.php:98
+msgid "Number of Tweets"
+msgstr ""
+
+#: modules/twitter/public/class-powerkit-twitter-shortcode.php:51
+msgid "Number of tweets to displays"
+msgstr ""
+
+#: modules/twitter/public/class-powerkit-twitter-widget.php:39
+msgid "A list of recent tweets."
+msgstr ""
+
+#: modules/twitter/public/class-powerkit-twitter-widget.php:114
+msgid "Twitter user ID:"
+msgstr ""
+
+#: modules/twitter/public/class-powerkit-twitter-widget.php:118
+msgid "Number of tweets to display:"
+msgstr ""
+
+#: modules/twitter/public/twitter-template.php:98
+msgid "Reply"
+msgstr ""
+
+#: modules/twitter/public/twitter-template.php:105
+msgid "Retweet"
+msgstr ""
+
+#: modules/twitter/public/twitter-template.php:111
+msgid "Favorite"
+msgstr ""
+
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:62
+msgid "Adobe Fonts account"
+msgstr ""
+
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:63
+msgid "To get your API key, go to link"
+msgstr ""
+
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:64
+msgid "Copy your \"Token\" under the \"Your API tokens\" label."
+msgstr ""
+
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:69
+msgid "Token"
+msgstr ""
+
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:97
+msgid "Invalid token or no font kits created."
+msgstr ""
+
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:85
+msgid "Kits"
+msgstr ""
+
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:104
+msgid "Save Changes"
+msgstr ""
+
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:111
+msgid "Synchronize"
+msgstr ""
+
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:208
+msgid "No fonts found. Please add fonts to your Typekit font kit."
+msgstr ""
+
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:161
+msgid "Example of using a Typekit font"
+msgstr ""
+
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:167
+msgid "Available Fonts"
+msgstr ""
+
+#: modules/typekit-fonts/admin/class-powerkit-typekit-fonts-admin.php:259
+msgid "Font kits synchronized."
+msgstr ""
+
+#: modules/typekit-fonts/public/class-powerkit-typekit-fonts-public.php:105,
+#: modules/typekit-fonts/public/class-powerkit-typekit-fonts-public.php:139,
+#: modules/typekit-fonts/public/class-powerkit-typekit-fonts-public.php:239
+msgid "Typekit"
+msgstr ""
+
+#: modules/widget-about/public/class-powerkit-widget-about-init.php:30,
+#: modules/widget-about/public/class-powerkit-widget-about-init.php:44
+msgid "About"
+msgstr ""
+
+#: modules/widget-about/public/class-powerkit-widget-about-init.php:110
+msgid "Subtitle"
+msgstr ""
+
+#: modules/widget-about/public/class-powerkit-widget-about-init.php:114
+msgid "Image URL"
+msgstr ""
+
+#: modules/widget-about/public/class-powerkit-widget-about-init.php:122
+msgid "Button URL"
+msgstr ""
+
+#: modules/widget-about/public/class-powerkit-widget-about-init.php:126
+msgid "Button Text"
+msgstr ""
+
+#: modules/widget-about/public/class-powerkit-widget-about-init.php:132
+msgid "Display social links"
+msgstr ""

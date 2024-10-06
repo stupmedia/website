@@ -1,0 +1,3457 @@
+# Copyright (C) 2023 newsblock
+# This file is distributed under the same license as the newsblock package.
+msgid ""
+msgstr ""
+"Project-Id-Version: newsblock\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: French (France)\n"
+"Last-Translator: La rédaction\n"
+"Report-Msgid-Bugs-To: https://codesupply.co/contact/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"POT-Creation-Date: 2024-03-28 11:37+0000\n"
+"PO-Revision-Date: 2024-04-04 22:58+0000\n"
+"Language: fr_FR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5"
+
+#. translators: 1: number of comments
+#: comments.php:43
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40, inc/post-meta.php:302
+msgid "One comment"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:87
+msgid "View Comments"
+msgstr ""
+
+#: functions.php:41, inc/filters.php:477
+msgid "Primary"
+msgstr ""
+
+#: functions.php:42
+msgid "Mobile"
+msgstr ""
+
+#: functions.php:43, inc/custom-content.php:70
+msgid "Footer"
+msgstr ""
+
+#: index.php:24
+msgid "Latest News"
+msgstr ""
+
+#: index.php:97
+msgid ""
+"It seems we cannot find what you are looking for. Perhaps searching can help."
+msgstr ""
+
+#: index.php:83, template-parts/blocks/posts-area.php:116
+msgid "Previous"
+msgstr "Précédent"
+
+#: index.php:84, template-parts/blocks/posts-area.php:117
+msgid "Next"
+msgstr "Suivant"
+
+#: searchform.php:12
+msgid "Enter keyword"
+msgstr ""
+
+#: searchform.php:15, inc/theme-mods/header-settings.php:199
+msgid "Search"
+msgstr ""
+
+#: template-meet-team.php:3, template-meet-team.php:9
+msgid "Meet The Team"
+msgstr ""
+
+#. translators: %s: Author name.
+#. translators: %s: Author name.
+#. translators: %s: Author name.
+#: amp/footer.php:34, inc/template-tags.php:416,
+#: inc/theme-mods/footer-settings.php:55
+msgid "Designed & Developed by %s"
+msgstr ""
+
+#: inc/custom-content.php:15
+msgid "Header"
+msgstr ""
+
+#: inc/custom-content.php:20
+msgid "Site Content"
+msgstr ""
+
+#: inc/custom-content.php:25
+msgid "Main"
+msgstr ""
+
+#: inc/custom-content.php:30, inc/custom-content.php:84
+msgid "Post"
+msgstr ""
+
+#: inc/custom-content.php:35
+msgid "Post Content"
+msgstr ""
+
+#: inc/custom-content.php:40, inc/custom-content.php:85
+msgid "Page"
+msgstr ""
+
+#: inc/custom-content.php:45
+msgid "Page Content"
+msgstr ""
+
+#: inc/custom-content.php:50
+msgid "Post Author"
+msgstr ""
+
+#: inc/custom-content.php:55
+msgid "Post Pagination"
+msgstr ""
+
+#: inc/custom-content.php:60, inc/gutenberg/helpers.php:605,
+#: inc/theme-mods/archive-settings.php:245,
+#: inc/theme-mods/header-settings.php:366,
+#: inc/theme-mods/header-settings.php:815,
+#: inc/theme-mods/homepage-settings.php:282,
+#: inc/theme-mods/post-settings.php:64, inc/theme-mods/post-settings.php:319,
+#: inc/theme-mods/post-settings.php:528
+msgid "Comments"
+msgstr ""
+
+#: inc/custom-content.php:65
+msgid "Auto Loaded Posts"
+msgstr ""
+
+#: inc/custom-content.php:82, inc/demo-import/customizer-demos.php:291
+msgid "Homepage"
+msgstr ""
+
+#: inc/custom-content.php:83
+msgid "Front Page"
+msgstr ""
+
+#: inc/custom-content.php:86
+msgid "Archive"
+msgstr ""
+
+#: inc/custom-content.php:105
+msgid "Additional Content"
+msgstr ""
+
+#: inc/custom-content.php:112, inc/theme-mods/typography-settings.php:19
+msgid "General"
+msgstr ""
+
+#: inc/custom-content.php:122
+msgid "Load Google AdSense Scripts"
+msgstr ""
+
+#: inc/custom-content.php:123
+msgid "Enable this if you're using Google AdSense."
+msgstr ""
+
+#: inc/custom-content.php:149
+msgid "Before"
+msgstr ""
+
+#: inc/custom-content.php:161
+msgid "After"
+msgstr ""
+
+#: inc/filters.php:110, inc/gutenberg/helpers.php:629,
+#: inc/theme-mods/archive-settings.php:244,
+#: inc/theme-mods/header-settings.php:365,
+#: inc/theme-mods/header-settings.php:814,
+#: inc/theme-mods/homepage-settings.php:281,
+#: inc/theme-mods/post-settings.php:63, inc/theme-mods/post-settings.php:318,
+#: inc/theme-mods/post-settings.php:527
+msgid "Shares"
+msgstr ""
+
+#: inc/filters.php:166, inc/theme-mods/miscellaneous-settings.php:59
+msgid "Read More"
+msgstr ""
+
+#: inc/filters.php:475
+msgid "Badge Style"
+msgstr ""
+
+#: inc/filters.php:478, inc/gutenberg/editor.php:149
+msgid "Secondary"
+msgstr ""
+
+#: inc/filters.php:479
+msgid "Dark"
+msgstr ""
+
+#: inc/filters.php:480
+msgid "Success"
+msgstr ""
+
+#: inc/filters.php:481
+msgid "Info"
+msgstr ""
+
+#: inc/filters.php:482
+msgid "Warning"
+msgstr ""
+
+#: inc/filters.php:483
+msgid "Danger"
+msgstr ""
+
+#: inc/filters.php:487
+msgid "Badge Text"
+msgstr ""
+
+#: inc/filters.php:565
+msgid "Continue typing"
+msgstr ""
+
+#: inc/load-more.php:83, inc/gutenberg/helpers.php:51,
+#: inc/gutenberg/helpers.php:221
+msgid "Load More"
+msgstr "Plus"
+
+#: inc/load-more.php:84
+msgid "Loading"
+msgstr ""
+
+#: inc/mega-menu.php:92, inc/theme-mods/header-settings.php:759
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/metabox.php:41
+msgid "Layout Options"
+msgstr ""
+
+#: inc/metabox.php:69, inc/theme-mods/archive-settings.php:38,
+#: inc/theme-mods/homepage-settings.php:75
+msgid "Sidebar"
+msgstr ""
+
+#: inc/metabox.php:71, inc/metabox.php:82, inc/metabox.php:96,
+#: inc/theme-mods/miscellaneous-settings.php:74
+msgid "Default"
+msgstr ""
+
+#: inc/metabox.php:72, inc/woocommerce.php:95, inc/woocommerce.php:133,
+#: inc/theme-mods/archive-settings.php:43,
+#: inc/theme-mods/homepage-settings.php:80,
+#: inc/theme-mods/page-settings.php:26, inc/theme-mods/post-settings.php:40
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/metabox.php:73, inc/woocommerce.php:96, inc/woocommerce.php:134,
+#: inc/theme-mods/archive-settings.php:44,
+#: inc/theme-mods/homepage-settings.php:81,
+#: inc/theme-mods/page-settings.php:27, inc/theme-mods/post-settings.php:41
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/metabox.php:74, inc/woocommerce.php:97, inc/woocommerce.php:135,
+#: inc/theme-mods/archive-settings.php:45,
+#: inc/theme-mods/homepage-settings.php:82,
+#: inc/theme-mods/page-settings.php:28, inc/theme-mods/post-settings.php:42
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/metabox.php:80, inc/theme-mods/page-settings.php:38
+msgid "Page Header Type"
+msgstr ""
+
+#: inc/metabox.php:83, inc/theme-mods/page-settings.php:43,
+#: inc/theme-mods/post-settings.php:100
+msgid "Simple"
+msgstr ""
+
+#: inc/metabox.php:84, inc/gutenberg/helpers.php:50,
+#: inc/theme-mods/archive-settings.php:352,
+#: inc/theme-mods/homepage-settings.php:389,
+#: inc/theme-mods/page-settings.php:44, inc/theme-mods/post-settings.php:101
+msgid "Standard"
+msgstr ""
+
+#: inc/metabox.php:85, inc/theme-mods/page-settings.php:45,
+#: inc/theme-mods/post-settings.php:102
+msgid "Overlay"
+msgstr ""
+
+#: inc/metabox.php:86, inc/theme-mods/miscellaneous-settings.php:76,
+#: inc/theme-mods/page-settings.php:46, inc/theme-mods/post-settings.php:103
+msgid "Large"
+msgstr ""
+
+#: inc/metabox.php:87, inc/theme-mods/page-settings.php:47,
+#: inc/theme-mods/post-settings.php:104
+msgid "Large Overlay"
+msgstr ""
+
+#: inc/metabox.php:88, inc/theme-mods/page-settings.php:48,
+#: inc/theme-mods/post-settings.php:105
+msgid "Page Title Only"
+msgstr ""
+
+#: inc/metabox.php:89, inc/gutenberg/helpers.php:49,
+#: inc/gutenberg/helpers.php:220, inc/theme-mods/page-settings.php:49,
+#: inc/theme-mods/post-settings.php:106
+msgid "None"
+msgstr ""
+
+#: inc/metabox.php:94, inc/theme-mods/post-settings.php:627
+msgid "Auto Load Next Post"
+msgstr ""
+
+#: inc/metabox.php:97
+msgid "Enabled"
+msgstr ""
+
+#: inc/metabox.php:98
+msgid "Disabled"
+msgstr ""
+
+#: inc/metabox.php:155
+msgid "Video Background"
+msgstr ""
+
+#: inc/metabox.php:179
+msgid "Location"
+msgstr ""
+
+#: inc/metabox.php:180
+msgid "Large Header"
+msgstr ""
+
+#: inc/metabox.php:182
+msgid "Post Archives"
+msgstr ""
+
+#: inc/metabox.php:185
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/metabox.php:188
+msgid "Start Time (sec)"
+msgstr ""
+
+#: inc/metabox.php:191
+msgid "End Time (sec)"
+msgstr ""
+
+#: inc/partials.php:147
+msgid "Next page"
+msgstr "Page suivante"
+
+#: inc/partials.php:148
+msgid "Previous page"
+msgstr "Page précédante"
+
+#: inc/post-meta.php:247, inc/classes/class-csco-theme-activation.php:302
+msgid "and"
+msgstr ""
+
+#: inc/post-meta.php:260
+msgid "by"
+msgstr "  "
+
+#. translators: %s: author name
+#: inc/post-meta.php:263
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/post-meta.php:302
+msgid "No comments"
+msgstr ""
+
+#: inc/post-meta.php:302
+msgid "comments"
+msgstr ""
+
+#. translators: %s number of minutes
+#: inc/post-meta.php:335
+msgid "%s minute read"
+msgid_plural "%s minute read"
+msgstr[0] "Lecture %s minute"
+msgstr[1] "Lecture %s minutes"
+
+#: inc/post-meta.php:332
+msgid "min"
+msgstr ""
+
+#. translators: %s number of post views
+#: inc/post-meta.php:382
+msgid "%s view"
+msgid_plural "%s views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/post-meta.php:379
+msgid "views"
+msgstr ""
+
+#. translators: %s number of post views
+#: inc/post-meta.php:440
+msgid "%s share"
+msgid_plural "%s shares"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/post-meta.php:437
+msgid "shares"
+msgstr ""
+
+#: inc/powerkit.php:24
+msgid "After Post Content"
+msgstr ""
+
+#: inc/powerkit.php:42
+msgid "Entry Metabar"
+msgstr ""
+
+#: inc/powerkit.php:68, inc/theme-mods/archive-settings.php:233,
+#: inc/theme-mods/header-settings.php:354,
+#: inc/theme-mods/header-settings.php:803,
+#: inc/theme-mods/homepage-settings.php:270,
+#: inc/theme-mods/post-settings.php:52, inc/theme-mods/post-settings.php:307,
+#: inc/theme-mods/post-settings.php:516,
+#: inc/gutenberg/blocks/horizontal-type-1.php:266,
+#: inc/gutenberg/blocks/horizontal-type-2.php:227,
+#: inc/gutenberg/blocks/horizontal-type-3.php:227,
+#: inc/gutenberg/blocks/horizontal-type-4.php:253,
+#: inc/gutenberg/blocks/horizontal-type-5.php:242,
+#: inc/gutenberg/blocks/standard-type-1.php:270,
+#: inc/gutenberg/blocks/standard-type-2.php:274,
+#: inc/gutenberg/blocks/standard-type-3.php:248,
+#: inc/gutenberg/blocks/standard-type-4.php:242,
+#: inc/gutenberg/blocks/tile-type-2.php:247,
+#: inc/gutenberg/blocks/tile-type-3.php:262
+msgid "Post Meta"
+msgstr ""
+
+#: inc/powerkit.php:215
+msgid "Large Type 1"
+msgstr ""
+
+#: inc/powerkit.php:220
+msgid "Large Type 2"
+msgstr ""
+
+#: inc/powerkit.php:262, inc/powerkit.php:494, inc/powerkit.php:576,
+#: inc/powerkit.php:648, inc/theme-mods/archive-settings.php:162,
+#: inc/theme-mods/header-settings.php:265,
+#: inc/theme-mods/header-settings.php:769,
+#: inc/theme-mods/homepage-settings.php:199,
+#: inc/theme-mods/post-settings.php:233, inc/theme-mods/post-settings.php:468,
+#: inc/gutenberg/blocks/horizontal-type-1.php:128,
+#: inc/gutenberg/blocks/horizontal-type-2.php:89,
+#: inc/gutenberg/blocks/horizontal-type-3.php:89,
+#: inc/gutenberg/blocks/horizontal-type-4.php:89,
+#: inc/gutenberg/blocks/horizontal-type-5.php:89,
+#: inc/gutenberg/blocks/standard-type-1.php:117,
+#: inc/gutenberg/blocks/standard-type-2.php:110,
+#: inc/gutenberg/blocks/standard-type-3.php:110,
+#: inc/gutenberg/blocks/standard-type-4.php:89,
+#: inc/gutenberg/blocks/tile-type-1.php:125,
+#: inc/gutenberg/blocks/tile-type-3.php:110
+msgid "Image Orientation"
+msgstr ""
+
+#: inc/powerkit.php:264, inc/theme-mods/archive-settings.php:166,
+#: inc/theme-mods/header-settings.php:269,
+#: inc/theme-mods/header-settings.php:773,
+#: inc/theme-mods/homepage-settings.php:203,
+#: inc/theme-mods/post-settings.php:237, inc/theme-mods/post-settings.php:472,
+#: inc/gutenberg/blocks/horizontal-type-1.php:133,
+#: inc/gutenberg/blocks/horizontal-type-2.php:94,
+#: inc/gutenberg/blocks/horizontal-type-3.php:94,
+#: inc/gutenberg/blocks/horizontal-type-4.php:94,
+#: inc/gutenberg/blocks/horizontal-type-5.php:94,
+#: inc/gutenberg/blocks/large-type-1.php:82,
+#: inc/gutenberg/blocks/large-type-2.php:82,
+#: inc/gutenberg/blocks/large-type-7.php:82,
+#: inc/gutenberg/blocks/standard-type-1.php:122,
+#: inc/gutenberg/blocks/standard-type-2.php:115,
+#: inc/gutenberg/blocks/standard-type-3.php:115,
+#: inc/gutenberg/blocks/standard-type-4.php:94
+msgid "Original"
+msgstr ""
+
+#: inc/powerkit.php:265, inc/powerkit.php:499, inc/powerkit.php:581,
+#: inc/powerkit.php:653, inc/theme-mods/archive-settings.php:167,
+#: inc/theme-mods/header-settings.php:270,
+#: inc/theme-mods/header-settings.php:774,
+#: inc/theme-mods/homepage-settings.php:204,
+#: inc/theme-mods/post-settings.php:238, inc/theme-mods/post-settings.php:473,
+#: inc/gutenberg/blocks/horizontal-type-1.php:134,
+#: inc/gutenberg/blocks/horizontal-type-2.php:95,
+#: inc/gutenberg/blocks/horizontal-type-3.php:95,
+#: inc/gutenberg/blocks/horizontal-type-4.php:95,
+#: inc/gutenberg/blocks/horizontal-type-5.php:95,
+#: inc/gutenberg/blocks/large-type-1.php:83,
+#: inc/gutenberg/blocks/large-type-2.php:83,
+#: inc/gutenberg/blocks/large-type-7.php:83,
+#: inc/gutenberg/blocks/standard-type-1.php:123,
+#: inc/gutenberg/blocks/standard-type-2.php:116,
+#: inc/gutenberg/blocks/standard-type-3.php:116,
+#: inc/gutenberg/blocks/standard-type-4.php:95,
+#: inc/gutenberg/blocks/tile-type-1.php:131,
+#: inc/gutenberg/blocks/tile-type-3.php:115
+msgid "Landscape 4:3"
+msgstr ""
+
+#: inc/powerkit.php:266, inc/powerkit.php:500, inc/powerkit.php:582,
+#: inc/powerkit.php:654, inc/theme-mods/archive-settings.php:168,
+#: inc/theme-mods/header-settings.php:271,
+#: inc/theme-mods/header-settings.php:775,
+#: inc/theme-mods/homepage-settings.php:205,
+#: inc/theme-mods/post-settings.php:239, inc/theme-mods/post-settings.php:474,
+#: inc/gutenberg/blocks/horizontal-type-1.php:135,
+#: inc/gutenberg/blocks/horizontal-type-2.php:96,
+#: inc/gutenberg/blocks/horizontal-type-3.php:96,
+#: inc/gutenberg/blocks/horizontal-type-4.php:96,
+#: inc/gutenberg/blocks/horizontal-type-5.php:96,
+#: inc/gutenberg/blocks/large-type-1.php:84,
+#: inc/gutenberg/blocks/large-type-2.php:84,
+#: inc/gutenberg/blocks/large-type-7.php:84,
+#: inc/gutenberg/blocks/standard-type-1.php:124,
+#: inc/gutenberg/blocks/standard-type-2.php:117,
+#: inc/gutenberg/blocks/standard-type-3.php:117,
+#: inc/gutenberg/blocks/standard-type-4.php:96,
+#: inc/gutenberg/blocks/tile-type-1.php:132,
+#: inc/gutenberg/blocks/tile-type-3.php:116
+msgid "Landscape 3:2"
+msgstr ""
+
+#: inc/powerkit.php:267, inc/powerkit.php:501, inc/powerkit.php:583,
+#: inc/powerkit.php:655, inc/theme-mods/archive-settings.php:169,
+#: inc/theme-mods/header-settings.php:272,
+#: inc/theme-mods/header-settings.php:776,
+#: inc/theme-mods/homepage-settings.php:206,
+#: inc/theme-mods/post-settings.php:240, inc/theme-mods/post-settings.php:475,
+#: inc/gutenberg/blocks/horizontal-type-1.php:136,
+#: inc/gutenberg/blocks/horizontal-type-2.php:97,
+#: inc/gutenberg/blocks/horizontal-type-3.php:97,
+#: inc/gutenberg/blocks/horizontal-type-4.php:97,
+#: inc/gutenberg/blocks/horizontal-type-5.php:97,
+#: inc/gutenberg/blocks/large-type-1.php:85,
+#: inc/gutenberg/blocks/large-type-2.php:85,
+#: inc/gutenberg/blocks/large-type-7.php:85,
+#: inc/gutenberg/blocks/standard-type-1.php:125,
+#: inc/gutenberg/blocks/standard-type-2.php:118,
+#: inc/gutenberg/blocks/standard-type-3.php:118,
+#: inc/gutenberg/blocks/standard-type-4.php:97,
+#: inc/gutenberg/blocks/tile-type-1.php:133,
+#: inc/gutenberg/blocks/tile-type-3.php:117
+msgid "Landscape 16:9"
+msgstr ""
+
+#: inc/powerkit.php:268, inc/powerkit.php:502, inc/powerkit.php:584,
+#: inc/powerkit.php:656, inc/theme-mods/archive-settings.php:170,
+#: inc/theme-mods/header-settings.php:273,
+#: inc/theme-mods/header-settings.php:777,
+#: inc/theme-mods/homepage-settings.php:207,
+#: inc/theme-mods/post-settings.php:241, inc/theme-mods/post-settings.php:476,
+#: inc/gutenberg/blocks/horizontal-type-1.php:137,
+#: inc/gutenberg/blocks/horizontal-type-2.php:98,
+#: inc/gutenberg/blocks/horizontal-type-3.php:98,
+#: inc/gutenberg/blocks/horizontal-type-4.php:98,
+#: inc/gutenberg/blocks/horizontal-type-5.php:98,
+#: inc/gutenberg/blocks/large-type-1.php:86,
+#: inc/gutenberg/blocks/large-type-2.php:86,
+#: inc/gutenberg/blocks/large-type-7.php:86,
+#: inc/gutenberg/blocks/standard-type-1.php:126,
+#: inc/gutenberg/blocks/standard-type-2.php:119,
+#: inc/gutenberg/blocks/standard-type-3.php:119,
+#: inc/gutenberg/blocks/standard-type-4.php:98,
+#: inc/gutenberg/blocks/tile-type-1.php:134,
+#: inc/gutenberg/blocks/tile-type-3.php:118
+msgid "Portrait 3:4"
+msgstr ""
+
+#: inc/powerkit.php:269, inc/powerkit.php:503, inc/powerkit.php:585,
+#: inc/powerkit.php:657, inc/theme-mods/archive-settings.php:171,
+#: inc/theme-mods/header-settings.php:274,
+#: inc/theme-mods/header-settings.php:778,
+#: inc/theme-mods/homepage-settings.php:208,
+#: inc/theme-mods/post-settings.php:242, inc/theme-mods/post-settings.php:477,
+#: inc/gutenberg/blocks/horizontal-type-1.php:138,
+#: inc/gutenberg/blocks/horizontal-type-2.php:99,
+#: inc/gutenberg/blocks/horizontal-type-3.php:99,
+#: inc/gutenberg/blocks/horizontal-type-4.php:99,
+#: inc/gutenberg/blocks/horizontal-type-5.php:99,
+#: inc/gutenberg/blocks/large-type-1.php:87,
+#: inc/gutenberg/blocks/large-type-2.php:87,
+#: inc/gutenberg/blocks/large-type-7.php:87,
+#: inc/gutenberg/blocks/standard-type-1.php:127,
+#: inc/gutenberg/blocks/standard-type-2.php:120,
+#: inc/gutenberg/blocks/standard-type-3.php:120,
+#: inc/gutenberg/blocks/standard-type-4.php:99,
+#: inc/gutenberg/blocks/tile-type-1.php:135,
+#: inc/gutenberg/blocks/tile-type-3.php:119
+msgid "Portrait 2:3"
+msgstr ""
+
+#: inc/powerkit.php:270, inc/powerkit.php:504, inc/powerkit.php:586,
+#: inc/powerkit.php:658, inc/theme-mods/archive-settings.php:172,
+#: inc/theme-mods/header-settings.php:275,
+#: inc/theme-mods/header-settings.php:779,
+#: inc/theme-mods/homepage-settings.php:209,
+#: inc/theme-mods/post-settings.php:243, inc/theme-mods/post-settings.php:478,
+#: inc/gutenberg/blocks/horizontal-type-1.php:139,
+#: inc/gutenberg/blocks/horizontal-type-2.php:100,
+#: inc/gutenberg/blocks/horizontal-type-3.php:100,
+#: inc/gutenberg/blocks/horizontal-type-4.php:100,
+#: inc/gutenberg/blocks/horizontal-type-5.php:100,
+#: inc/gutenberg/blocks/large-type-1.php:88,
+#: inc/gutenberg/blocks/large-type-2.php:88,
+#: inc/gutenberg/blocks/large-type-7.php:88,
+#: inc/gutenberg/blocks/standard-type-1.php:128,
+#: inc/gutenberg/blocks/standard-type-2.php:121,
+#: inc/gutenberg/blocks/standard-type-3.php:121,
+#: inc/gutenberg/blocks/standard-type-4.php:100,
+#: inc/gutenberg/blocks/tile-type-1.php:136,
+#: inc/gutenberg/blocks/tile-type-3.php:120
+msgid "Square"
+msgstr ""
+
+#: inc/powerkit.php:276, inc/gutenberg/blocks/horizontal-type-1.php:144,
+#: inc/gutenberg/blocks/horizontal-type-2.php:105,
+#: inc/gutenberg/blocks/horizontal-type-3.php:105,
+#: inc/gutenberg/blocks/horizontal-type-4.php:105,
+#: inc/gutenberg/blocks/horizontal-type-5.php:105,
+#: inc/gutenberg/blocks/large-type-3.php:79,
+#: inc/gutenberg/blocks/large-type-4.php:94,
+#: inc/gutenberg/blocks/large-type-5.php:109,
+#: inc/gutenberg/blocks/large-type-6.php:109,
+#: inc/gutenberg/blocks/large-type-8.php:80,
+#: inc/gutenberg/blocks/large-type-9.php:80,
+#: inc/gutenberg/blocks/standard-type-1.php:133,
+#: inc/gutenberg/blocks/standard-type-2.php:126,
+#: inc/gutenberg/blocks/standard-type-3.php:126,
+#: inc/gutenberg/blocks/standard-type-4.php:105,
+#: inc/gutenberg/blocks/tile-type-1.php:141,
+#: inc/gutenberg/blocks/tile-type-2.php:110,
+#: inc/gutenberg/blocks/tile-type-3.php:125
+msgid "Images Size"
+msgstr ""
+
+#: inc/powerkit.php:286, inc/theme-mods/header-settings.php:323,
+#: inc/theme-mods/post-settings.php:281,
+#: inc/gutenberg/blocks/horizontal-type-1.php:152,
+#: inc/gutenberg/blocks/horizontal-type-2.php:113,
+#: inc/gutenberg/blocks/horizontal-type-3.php:113,
+#: inc/gutenberg/blocks/horizontal-type-4.php:113,
+#: inc/gutenberg/blocks/horizontal-type-5.php:113,
+#: inc/gutenberg/blocks/standard-type-1.php:141,
+#: inc/gutenberg/blocks/standard-type-2.php:134,
+#: inc/gutenberg/blocks/standard-type-3.php:134,
+#: inc/gutenberg/blocks/standard-type-4.php:113,
+#: inc/gutenberg/blocks/tile-type-1.php:149,
+#: inc/gutenberg/blocks/tile-type-2.php:118,
+#: inc/gutenberg/blocks/tile-type-3.php:133
+msgid "Image Border Radius"
+msgstr ""
+
+#: inc/powerkit.php:425
+msgid "Tiles Style 1"
+msgstr ""
+
+#: inc/powerkit.php:431, inc/gutenberg/filters.php:316,
+#: inc/gutenberg/blocks/horizontal-type-1.php:25,
+#: inc/gutenberg/blocks/horizontal-type-2.php:25,
+#: inc/gutenberg/blocks/horizontal-type-3.php:25,
+#: inc/gutenberg/blocks/horizontal-type-4.php:25,
+#: inc/gutenberg/blocks/horizontal-type-5.php:25,
+#: inc/gutenberg/blocks/large-type-1.php:25,
+#: inc/gutenberg/blocks/large-type-2.php:25,
+#: inc/gutenberg/blocks/large-type-3.php:25,
+#: inc/gutenberg/blocks/large-type-4.php:25,
+#: inc/gutenberg/blocks/large-type-5.php:25,
+#: inc/gutenberg/blocks/large-type-6.php:25,
+#: inc/gutenberg/blocks/large-type-7.php:25,
+#: inc/gutenberg/blocks/large-type-8.php:25,
+#: inc/gutenberg/blocks/large-type-9.php:25,
+#: inc/gutenberg/blocks/standard-type-1.php:25,
+#: inc/gutenberg/blocks/standard-type-2.php:25,
+#: inc/gutenberg/blocks/standard-type-3.php:25,
+#: inc/gutenberg/blocks/standard-type-4.php:25,
+#: inc/gutenberg/blocks/tile-type-1.php:25,
+#: inc/gutenberg/blocks/tile-type-2.php:25,
+#: inc/gutenberg/blocks/tile-type-3.php:25
+msgid "Block Settings"
+msgstr ""
+
+#: inc/powerkit.php:436, inc/gutenberg/filters.php:325,
+#: inc/gutenberg/blocks/horizontal-type-1.php:34,
+#: inc/gutenberg/blocks/horizontal-type-2.php:34,
+#: inc/gutenberg/blocks/horizontal-type-3.php:34,
+#: inc/gutenberg/blocks/horizontal-type-4.php:34,
+#: inc/gutenberg/blocks/horizontal-type-5.php:34,
+#: inc/gutenberg/blocks/large-type-1.php:38,
+#: inc/gutenberg/blocks/large-type-2.php:38,
+#: inc/gutenberg/blocks/large-type-3.php:34,
+#: inc/gutenberg/blocks/large-type-4.php:34,
+#: inc/gutenberg/blocks/large-type-5.php:34,
+#: inc/gutenberg/blocks/large-type-6.php:34,
+#: inc/gutenberg/blocks/large-type-7.php:38,
+#: inc/gutenberg/blocks/large-type-8.php:34,
+#: inc/gutenberg/blocks/large-type-9.php:34,
+#: inc/gutenberg/blocks/standard-type-1.php:34,
+#: inc/gutenberg/blocks/standard-type-2.php:34,
+#: inc/gutenberg/blocks/standard-type-3.php:34,
+#: inc/gutenberg/blocks/standard-type-4.php:34,
+#: inc/gutenberg/blocks/tile-type-1.php:34,
+#: inc/gutenberg/blocks/tile-type-2.php:34,
+#: inc/gutenberg/blocks/tile-type-3.php:34
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/powerkit.php:448, inc/gutenberg/blocks/horizontal-type-1.php:45,
+#: inc/gutenberg/blocks/horizontal-type-2.php:45,
+#: inc/gutenberg/blocks/horizontal-type-3.php:45,
+#: inc/gutenberg/blocks/horizontal-type-4.php:45,
+#: inc/gutenberg/blocks/horizontal-type-5.php:45,
+#: inc/gutenberg/blocks/standard-type-1.php:45,
+#: inc/gutenberg/blocks/standard-type-2.php:45,
+#: inc/gutenberg/blocks/standard-type-3.php:45,
+#: inc/gutenberg/blocks/standard-type-4.php:45,
+#: inc/gutenberg/blocks/tile-type-1.php:45,
+#: inc/gutenberg/blocks/tile-type-2.php:45,
+#: inc/gutenberg/blocks/tile-type-3.php:45
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/powerkit.php:467
+msgid "Gap between Categories"
+msgstr ""
+
+#: inc/powerkit.php:484, inc/powerkit.php:566
+msgid "Description length"
+msgstr ""
+
+#: inc/powerkit.php:510, inc/powerkit.php:592, inc/powerkit.php:664,
+#: inc/theme-mods/archive-settings.php:190,
+#: inc/theme-mods/header-settings.php:298,
+#: inc/theme-mods/header-settings.php:790,
+#: inc/theme-mods/homepage-settings.php:227,
+#: inc/theme-mods/post-settings.php:261, inc/theme-mods/post-settings.php:496
+msgid "Image Size"
+msgstr ""
+
+#: inc/powerkit.php:519, inc/powerkit.php:601, inc/powerkit.php:673,
+#: inc/gutenberg/blocks/horizontal-type-1.php:165,
+#: inc/gutenberg/blocks/horizontal-type-2.php:126,
+#: inc/gutenberg/blocks/horizontal-type-3.php:126,
+#: inc/gutenberg/blocks/horizontal-type-4.php:126,
+#: inc/gutenberg/blocks/horizontal-type-5.php:126,
+#: inc/gutenberg/blocks/large-type-3.php:88,
+#: inc/gutenberg/blocks/large-type-4.php:103,
+#: inc/gutenberg/blocks/large-type-5.php:118,
+#: inc/gutenberg/blocks/large-type-6.php:118,
+#: inc/gutenberg/blocks/large-type-8.php:89,
+#: inc/gutenberg/blocks/large-type-9.php:89,
+#: inc/gutenberg/blocks/standard-type-1.php:154,
+#: inc/gutenberg/blocks/standard-type-2.php:147,
+#: inc/gutenberg/blocks/standard-type-3.php:147,
+#: inc/gutenberg/blocks/standard-type-4.php:126,
+#: inc/gutenberg/blocks/tile-type-1.php:162,
+#: inc/gutenberg/blocks/tile-type-2.php:131,
+#: inc/gutenberg/blocks/tile-type-3.php:146
+msgid "Heading Font Size"
+msgstr ""
+
+#: inc/powerkit.php:534, inc/powerkit.php:616, inc/powerkit.php:688,
+#: inc/gutenberg/blocks/horizontal-type-1.php:180,
+#: inc/gutenberg/blocks/horizontal-type-2.php:141,
+#: inc/gutenberg/blocks/horizontal-type-3.php:141,
+#: inc/gutenberg/blocks/horizontal-type-4.php:141,
+#: inc/gutenberg/blocks/horizontal-type-5.php:141,
+#: inc/gutenberg/blocks/large-type-3.php:103,
+#: inc/gutenberg/blocks/large-type-4.php:118,
+#: inc/gutenberg/blocks/large-type-5.php:133,
+#: inc/gutenberg/blocks/large-type-6.php:133,
+#: inc/gutenberg/blocks/large-type-8.php:104,
+#: inc/gutenberg/blocks/large-type-9.php:104,
+#: inc/gutenberg/blocks/standard-type-1.php:169,
+#: inc/gutenberg/blocks/standard-type-2.php:162,
+#: inc/gutenberg/blocks/standard-type-3.php:162,
+#: inc/gutenberg/blocks/standard-type-4.php:141,
+#: inc/gutenberg/blocks/tile-type-1.php:177,
+#: inc/gutenberg/blocks/tile-type-2.php:146,
+#: inc/gutenberg/blocks/tile-type-3.php:161
+msgid "Heading Tag"
+msgstr ""
+
+#: inc/powerkit.php:539, inc/powerkit.php:621, inc/powerkit.php:693,
+#: inc/theme-mods/typography-settings.php:778,
+#: inc/theme-mods/typography-settings.php:921,
+#: inc/gutenberg/blocks/horizontal-type-1.php:185,
+#: inc/gutenberg/blocks/horizontal-type-2.php:146,
+#: inc/gutenberg/blocks/horizontal-type-3.php:146,
+#: inc/gutenberg/blocks/horizontal-type-4.php:146,
+#: inc/gutenberg/blocks/horizontal-type-5.php:146,
+#: inc/gutenberg/blocks/large-type-1.php:134,
+#: inc/gutenberg/blocks/large-type-1.php:188,
+#: inc/gutenberg/blocks/large-type-2.php:134,
+#: inc/gutenberg/blocks/large-type-2.php:188,
+#: inc/gutenberg/blocks/large-type-3.php:108,
+#: inc/gutenberg/blocks/large-type-4.php:123,
+#: inc/gutenberg/blocks/large-type-5.php:138,
+#: inc/gutenberg/blocks/large-type-6.php:138,
+#: inc/gutenberg/blocks/large-type-7.php:134,
+#: inc/gutenberg/blocks/large-type-7.php:188,
+#: inc/gutenberg/blocks/large-type-8.php:109,
+#: inc/gutenberg/blocks/large-type-9.php:109,
+#: inc/gutenberg/blocks/standard-type-1.php:174,
+#: inc/gutenberg/blocks/standard-type-2.php:167,
+#: inc/gutenberg/blocks/standard-type-3.php:167,
+#: inc/gutenberg/blocks/standard-type-4.php:146,
+#: inc/gutenberg/blocks/tile-type-1.php:182,
+#: inc/gutenberg/blocks/tile-type-2.php:151,
+#: inc/gutenberg/blocks/tile-type-3.php:166
+msgid "H1"
+msgstr ""
+
+#: inc/powerkit.php:540, inc/powerkit.php:622, inc/powerkit.php:694,
+#: inc/theme-mods/typography-settings.php:779,
+#: inc/theme-mods/typography-settings.php:922,
+#: inc/gutenberg/blocks/horizontal-type-1.php:186,
+#: inc/gutenberg/blocks/horizontal-type-2.php:147,
+#: inc/gutenberg/blocks/horizontal-type-3.php:147,
+#: inc/gutenberg/blocks/horizontal-type-4.php:147,
+#: inc/gutenberg/blocks/horizontal-type-5.php:147,
+#: inc/gutenberg/blocks/large-type-1.php:135,
+#: inc/gutenberg/blocks/large-type-1.php:189,
+#: inc/gutenberg/blocks/large-type-2.php:135,
+#: inc/gutenberg/blocks/large-type-2.php:189,
+#: inc/gutenberg/blocks/large-type-3.php:109,
+#: inc/gutenberg/blocks/large-type-4.php:124,
+#: inc/gutenberg/blocks/large-type-5.php:139,
+#: inc/gutenberg/blocks/large-type-6.php:139,
+#: inc/gutenberg/blocks/large-type-7.php:135,
+#: inc/gutenberg/blocks/large-type-7.php:189,
+#: inc/gutenberg/blocks/large-type-8.php:110,
+#: inc/gutenberg/blocks/large-type-9.php:110,
+#: inc/gutenberg/blocks/standard-type-1.php:175,
+#: inc/gutenberg/blocks/standard-type-2.php:168,
+#: inc/gutenberg/blocks/standard-type-3.php:168,
+#: inc/gutenberg/blocks/standard-type-4.php:147,
+#: inc/gutenberg/blocks/tile-type-1.php:183,
+#: inc/gutenberg/blocks/tile-type-2.php:152,
+#: inc/gutenberg/blocks/tile-type-3.php:167
+msgid "H2"
+msgstr ""
+
+#: inc/powerkit.php:541, inc/powerkit.php:623, inc/powerkit.php:695,
+#: inc/theme-mods/typography-settings.php:780,
+#: inc/theme-mods/typography-settings.php:923,
+#: inc/gutenberg/blocks/horizontal-type-1.php:187,
+#: inc/gutenberg/blocks/horizontal-type-2.php:148,
+#: inc/gutenberg/blocks/horizontal-type-3.php:148,
+#: inc/gutenberg/blocks/horizontal-type-4.php:148,
+#: inc/gutenberg/blocks/horizontal-type-5.php:148,
+#: inc/gutenberg/blocks/large-type-1.php:136,
+#: inc/gutenberg/blocks/large-type-1.php:190,
+#: inc/gutenberg/blocks/large-type-2.php:136,
+#: inc/gutenberg/blocks/large-type-2.php:190,
+#: inc/gutenberg/blocks/large-type-3.php:110,
+#: inc/gutenberg/blocks/large-type-4.php:125,
+#: inc/gutenberg/blocks/large-type-5.php:140,
+#: inc/gutenberg/blocks/large-type-6.php:140,
+#: inc/gutenberg/blocks/large-type-7.php:136,
+#: inc/gutenberg/blocks/large-type-7.php:190,
+#: inc/gutenberg/blocks/large-type-8.php:111,
+#: inc/gutenberg/blocks/large-type-9.php:111,
+#: inc/gutenberg/blocks/standard-type-1.php:176,
+#: inc/gutenberg/blocks/standard-type-2.php:169,
+#: inc/gutenberg/blocks/standard-type-3.php:169,
+#: inc/gutenberg/blocks/standard-type-4.php:148,
+#: inc/gutenberg/blocks/tile-type-1.php:184,
+#: inc/gutenberg/blocks/tile-type-2.php:153,
+#: inc/gutenberg/blocks/tile-type-3.php:168
+msgid "H3"
+msgstr ""
+
+#: inc/powerkit.php:542, inc/powerkit.php:624, inc/powerkit.php:696,
+#: inc/theme-mods/typography-settings.php:781,
+#: inc/theme-mods/typography-settings.php:924,
+#: inc/gutenberg/blocks/horizontal-type-1.php:188,
+#: inc/gutenberg/blocks/horizontal-type-2.php:149,
+#: inc/gutenberg/blocks/horizontal-type-3.php:149,
+#: inc/gutenberg/blocks/horizontal-type-4.php:149,
+#: inc/gutenberg/blocks/horizontal-type-5.php:149,
+#: inc/gutenberg/blocks/large-type-1.php:137,
+#: inc/gutenberg/blocks/large-type-1.php:191,
+#: inc/gutenberg/blocks/large-type-2.php:137,
+#: inc/gutenberg/blocks/large-type-2.php:191,
+#: inc/gutenberg/blocks/large-type-3.php:111,
+#: inc/gutenberg/blocks/large-type-4.php:126,
+#: inc/gutenberg/blocks/large-type-5.php:141,
+#: inc/gutenberg/blocks/large-type-6.php:141,
+#: inc/gutenberg/blocks/large-type-7.php:137,
+#: inc/gutenberg/blocks/large-type-7.php:191,
+#: inc/gutenberg/blocks/large-type-8.php:112,
+#: inc/gutenberg/blocks/large-type-9.php:112,
+#: inc/gutenberg/blocks/standard-type-1.php:177,
+#: inc/gutenberg/blocks/standard-type-2.php:170,
+#: inc/gutenberg/blocks/standard-type-3.php:170,
+#: inc/gutenberg/blocks/standard-type-4.php:149,
+#: inc/gutenberg/blocks/tile-type-1.php:185,
+#: inc/gutenberg/blocks/tile-type-2.php:154,
+#: inc/gutenberg/blocks/tile-type-3.php:169
+msgid "H4"
+msgstr ""
+
+#: inc/powerkit.php:543, inc/powerkit.php:625, inc/powerkit.php:697,
+#: inc/theme-mods/typography-settings.php:782,
+#: inc/theme-mods/typography-settings.php:925,
+#: inc/gutenberg/blocks/horizontal-type-1.php:189,
+#: inc/gutenberg/blocks/horizontal-type-2.php:150,
+#: inc/gutenberg/blocks/horizontal-type-3.php:150,
+#: inc/gutenberg/blocks/horizontal-type-4.php:150,
+#: inc/gutenberg/blocks/horizontal-type-5.php:150,
+#: inc/gutenberg/blocks/large-type-1.php:138,
+#: inc/gutenberg/blocks/large-type-1.php:192,
+#: inc/gutenberg/blocks/large-type-2.php:138,
+#: inc/gutenberg/blocks/large-type-2.php:192,
+#: inc/gutenberg/blocks/large-type-3.php:112,
+#: inc/gutenberg/blocks/large-type-4.php:127,
+#: inc/gutenberg/blocks/large-type-5.php:142,
+#: inc/gutenberg/blocks/large-type-6.php:142,
+#: inc/gutenberg/blocks/large-type-7.php:138,
+#: inc/gutenberg/blocks/large-type-7.php:192,
+#: inc/gutenberg/blocks/large-type-8.php:113,
+#: inc/gutenberg/blocks/large-type-9.php:113,
+#: inc/gutenberg/blocks/standard-type-1.php:178,
+#: inc/gutenberg/blocks/standard-type-2.php:171,
+#: inc/gutenberg/blocks/standard-type-3.php:171,
+#: inc/gutenberg/blocks/standard-type-4.php:150,
+#: inc/gutenberg/blocks/tile-type-1.php:186,
+#: inc/gutenberg/blocks/tile-type-2.php:155,
+#: inc/gutenberg/blocks/tile-type-3.php:170
+msgid "H5"
+msgstr ""
+
+#: inc/powerkit.php:544, inc/powerkit.php:626, inc/powerkit.php:698,
+#: inc/theme-mods/typography-settings.php:783,
+#: inc/theme-mods/typography-settings.php:926,
+#: inc/gutenberg/blocks/horizontal-type-1.php:190,
+#: inc/gutenberg/blocks/horizontal-type-2.php:151,
+#: inc/gutenberg/blocks/horizontal-type-3.php:151,
+#: inc/gutenberg/blocks/horizontal-type-4.php:151,
+#: inc/gutenberg/blocks/horizontal-type-5.php:151,
+#: inc/gutenberg/blocks/large-type-1.php:139,
+#: inc/gutenberg/blocks/large-type-1.php:193,
+#: inc/gutenberg/blocks/large-type-2.php:139,
+#: inc/gutenberg/blocks/large-type-2.php:193,
+#: inc/gutenberg/blocks/large-type-3.php:113,
+#: inc/gutenberg/blocks/large-type-4.php:128,
+#: inc/gutenberg/blocks/large-type-5.php:143,
+#: inc/gutenberg/blocks/large-type-6.php:143,
+#: inc/gutenberg/blocks/large-type-7.php:139,
+#: inc/gutenberg/blocks/large-type-7.php:193,
+#: inc/gutenberg/blocks/large-type-8.php:114,
+#: inc/gutenberg/blocks/large-type-9.php:114,
+#: inc/gutenberg/blocks/standard-type-1.php:179,
+#: inc/gutenberg/blocks/standard-type-2.php:172,
+#: inc/gutenberg/blocks/standard-type-3.php:172,
+#: inc/gutenberg/blocks/standard-type-4.php:151,
+#: inc/gutenberg/blocks/tile-type-1.php:187,
+#: inc/gutenberg/blocks/tile-type-2.php:156,
+#: inc/gutenberg/blocks/tile-type-3.php:171
+msgid "H6"
+msgstr ""
+
+#: inc/powerkit.php:545, inc/powerkit.php:627, inc/powerkit.php:699,
+#: inc/theme-mods/typography-settings.php:784,
+#: inc/theme-mods/typography-settings.php:927,
+#: inc/gutenberg/blocks/horizontal-type-1.php:191,
+#: inc/gutenberg/blocks/horizontal-type-2.php:152,
+#: inc/gutenberg/blocks/horizontal-type-3.php:152,
+#: inc/gutenberg/blocks/horizontal-type-4.php:152,
+#: inc/gutenberg/blocks/horizontal-type-5.php:152,
+#: inc/gutenberg/blocks/large-type-1.php:140,
+#: inc/gutenberg/blocks/large-type-1.php:194,
+#: inc/gutenberg/blocks/large-type-2.php:140,
+#: inc/gutenberg/blocks/large-type-2.php:194,
+#: inc/gutenberg/blocks/large-type-3.php:114,
+#: inc/gutenberg/blocks/large-type-4.php:129,
+#: inc/gutenberg/blocks/large-type-5.php:144,
+#: inc/gutenberg/blocks/large-type-6.php:144,
+#: inc/gutenberg/blocks/large-type-7.php:140,
+#: inc/gutenberg/blocks/large-type-7.php:194,
+#: inc/gutenberg/blocks/large-type-8.php:115,
+#: inc/gutenberg/blocks/large-type-9.php:115,
+#: inc/gutenberg/blocks/standard-type-1.php:180,
+#: inc/gutenberg/blocks/standard-type-2.php:173,
+#: inc/gutenberg/blocks/standard-type-3.php:173,
+#: inc/gutenberg/blocks/standard-type-4.php:152,
+#: inc/gutenberg/blocks/tile-type-1.php:188,
+#: inc/gutenberg/blocks/tile-type-2.php:157,
+#: inc/gutenberg/blocks/tile-type-3.php:172
+msgid "P"
+msgstr ""
+
+#: inc/powerkit.php:546, inc/powerkit.php:628, inc/powerkit.php:700,
+#: inc/theme-mods/typography-settings.php:785,
+#: inc/theme-mods/typography-settings.php:928,
+#: inc/gutenberg/blocks/horizontal-type-1.php:192,
+#: inc/gutenberg/blocks/horizontal-type-2.php:153,
+#: inc/gutenberg/blocks/horizontal-type-3.php:153,
+#: inc/gutenberg/blocks/horizontal-type-4.php:153,
+#: inc/gutenberg/blocks/horizontal-type-5.php:153,
+#: inc/gutenberg/blocks/large-type-1.php:141,
+#: inc/gutenberg/blocks/large-type-1.php:195,
+#: inc/gutenberg/blocks/large-type-2.php:141,
+#: inc/gutenberg/blocks/large-type-2.php:195,
+#: inc/gutenberg/blocks/large-type-3.php:115,
+#: inc/gutenberg/blocks/large-type-4.php:130,
+#: inc/gutenberg/blocks/large-type-5.php:145,
+#: inc/gutenberg/blocks/large-type-6.php:145,
+#: inc/gutenberg/blocks/large-type-7.php:141,
+#: inc/gutenberg/blocks/large-type-7.php:195,
+#: inc/gutenberg/blocks/large-type-8.php:116,
+#: inc/gutenberg/blocks/large-type-9.php:116,
+#: inc/gutenberg/blocks/standard-type-1.php:181,
+#: inc/gutenberg/blocks/standard-type-2.php:174,
+#: inc/gutenberg/blocks/standard-type-3.php:174,
+#: inc/gutenberg/blocks/standard-type-4.php:153,
+#: inc/gutenberg/blocks/tile-type-1.php:189,
+#: inc/gutenberg/blocks/tile-type-2.php:158,
+#: inc/gutenberg/blocks/tile-type-3.php:173
+msgid "DIV"
+msgstr ""
+
+#: inc/powerkit.php:553
+msgid "Tiles Style 2"
+msgstr ""
+
+#: inc/powerkit.php:635
+msgid "Tiles Style 3"
+msgstr ""
+
+#: inc/powerkit.php:724, inc/theme-mods/design-settings.php:525,
+#: inc/theme-mods/design-settings.php:1272
+msgid "Button Background"
+msgstr ""
+
+#: inc/powerkit.php:737, inc/theme-mods/design-settings.php:547,
+#: inc/theme-mods/design-settings.php:1301
+msgid "Button Color"
+msgstr ""
+
+#: inc/powerkit.php:750
+msgid "Button Background Hover"
+msgstr ""
+
+#: inc/powerkit.php:763
+msgid "Button Color Hover"
+msgstr ""
+
+#: inc/template-functions.php:474
+msgid "B"
+msgstr ""
+
+#: inc/template-functions.php:475
+msgid "M"
+msgstr ""
+
+#: inc/template-functions.php:476
+msgid "K"
+msgstr ""
+
+#: inc/template-functions.php:897
+msgid "View on YouTube"
+msgstr ""
+
+#: inc/template-tags.php:296, inc/theme-mods/header-settings.php:720
+msgid "Follow"
+msgstr ""
+
+#: inc/template-tags.php:323, inc/theme-mods/header-settings.php:661
+msgid "Newsletter"
+msgstr ""
+
+#: inc/template-tags.php:499, template-parts/entry/entry-subscribe.php:12
+msgid "Sign Up for Our Newsletters"
+msgstr ""
+
+#: inc/template-tags.php:500, inc/theme-mods/footer-settings.php:151,
+#: inc/theme-mods/post-settings.php:426,
+#: template-parts/entry/entry-subscribe.php:13
+msgid "Get notified of the best deals on our WordPress themes."
+msgstr ""
+
+#: inc/template-tags.php:622, inc/gutenberg/helpers.php:589,
+#: inc/theme-mods/archive-settings.php:241,
+#: inc/theme-mods/header-settings.php:363,
+#: inc/theme-mods/header-settings.php:812,
+#: inc/theme-mods/homepage-settings.php:278,
+#: inc/theme-mods/post-settings.php:61, inc/theme-mods/post-settings.php:316,
+#: inc/theme-mods/post-settings.php:525
+msgid "Author"
+msgstr "Auteur"
+
+#. translators: 1: Singular, 2: Plural.
+#: inc/template-tags.php:670
+msgid "%s post"
+msgid_plural "%s posts"
+msgstr[0] "%s article"
+msgstr[1] "%s articles"
+
+#: inc/template-tags.php:703
+msgid "Subcategories"
+msgstr ""
+
+#. translators: category name.
+#: inc/template-tags.php:710
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/widgets-init.php:18, inc/woocommerce.php:128,
+#: inc/theme-mods/page-settings.php:21, inc/theme-mods/post-settings.php:35
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/widgets-init.php:29
+msgid "Off-canvas"
+msgstr ""
+
+#: inc/widgets-init.php:40
+msgid "Auto Loaded Sidebar"
+msgstr ""
+
+#. translators: Multi-Column Sidebar Number.
+#: inc/widgets-init.php:52
+msgid "Multi-Column Sub-Menu %d"
+msgstr ""
+
+#: inc/widgets-init.php:63, inc/theme-mods/header-settings.php:696
+msgid "Single-Column Sub-Menu"
+msgstr ""
+
+#: inc/woocommerce.php:79
+msgid "Common Settings"
+msgstr ""
+
+#: inc/woocommerce.php:90
+msgid "Default Page Sidebar"
+msgstr ""
+
+#: inc/woocommerce.php:107
+msgid "Display add to cart buttom"
+msgstr ""
+
+#: inc/woocommerce.php:117
+msgid "Product Page"
+msgstr ""
+
+#: inc/woocommerce.php:143
+msgid "Miscellaneous"
+msgstr ""
+
+#: inc/woocommerce.php:154
+msgid "Hide Cart Icon in Header"
+msgstr ""
+
+#: inc/woocommerce.php:265
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/woocommerce.php:300
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce.php:490
+msgid "Related Products"
+msgstr ""
+
+#: template-parts/meet-team.php:91
+msgid "Latest from "
+msgstr ""
+
+#: template-parts/page-header.php:81
+msgid "404"
+msgstr ""
+
+#: template-parts/page-header.php:74
+msgid "Search Results"
+msgstr ""
+
+#: template-parts/page-header.php:55
+msgid "Browsing Tag"
+msgstr ""
+
+#: template-parts/page-header.php:53
+msgid "Browsing Category"
+msgstr "Catégorie"
+
+#: template-parts/page-header.php:25
+msgid "All Posts By"
+msgstr "Tous les articles de"
+
+#: template-parts/search-results.php:34
+msgid "No results found."
+msgstr ""
+
+#: template-parts/site-search.php:22,
+#: inc/theme-mods/miscellaneous-settings.php:47
+msgid "Enter your search topic"
+msgstr ""
+
+#: template-parts/site-search.php:53, inc/theme-mods/header-settings.php:243
+msgid "The Latest"
+msgstr ""
+
+#: inc/classes/class-csco-kirki-installer.php:100
+msgid ""
+"Please install the Kirki plugin to take full advantage of this themes "
+"customizer capabilities"
+msgstr ""
+
+#: inc/classes/class-csco-kirki-installer.php:102
+msgid "Install Kirki Toolkit now"
+msgstr ""
+
+#: inc/classes/class-csco-kirki-installer.php:103
+msgid "Install Now"
+msgstr ""
+
+#: inc/classes/class-csco-kirki-installer.php:117
+msgid ""
+"You have installed Kirki. Activate it to take advantage of this theme's "
+"features in the customizer."
+msgstr ""
+
+#: inc/classes/class-csco-kirki-installer.php:119
+msgid "Activate Kirki Toolkit now"
+msgstr ""
+
+#: inc/classes/class-csco-kirki-installer.php:120
+msgid "Activate Now"
+msgstr ""
+
+#: inc/classes/class-csco-kirki-installer.php:136,
+#: inc/classes/class-csco-kirki-installer.php:137
+msgid "Don't show this again"
+msgstr ""
+
+#: inc/classes/class-csco-kirki-installer.php:136
+msgid "Dismiss"
+msgstr ""
+
+#: inc/classes/class-csco-kirki-installer.php:145
+msgid ""
+"Are you sure? Dismissing this message will hide the installation "
+"recommendation and you will have to manually install and activate the plugin "
+"in the future."
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:114,
+#: inc/classes/class-csco-theme-activation.php:114,
+#: inc/classes/class-csco-theme-activation.php:260
+msgid "Theme License"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:256
+msgid "You do not have sufficient rights to view this page."
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:276
+msgid "Updates"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:279
+msgid ""
+"We set a special price for all new themes for just a few days. Get notified "
+"of all introductory, flash and seasonal sales by signing up to our updates."
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:289
+msgid "Email Address"
+msgstr "Email"
+
+#: inc/classes/class-csco-theme-activation.php:302
+msgid "By checking this box you agree to our"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:302
+msgid "Terms and Conditions"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:302
+msgid "Privacy Policy"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:304
+msgid ""
+"You may opt-out any time by clicking the unsubscribe link in the footer of "
+"any email you receice from us, or by contacting us at"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:304
+msgid "support@codesupply.co"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:313
+msgid "Subscribe"
+msgstr "S'abonner"
+
+#: inc/classes/class-csco-theme-activation.php:329
+msgid "License Activation"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:327
+msgid "License Information"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:335
+msgid ""
+"To unlock demo content, please enter your purchase code below. If you don’t "
+"have a purchase code, please purchase the theme on"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:335
+msgid "ThemeForest"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:344
+msgid "Active Websites"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:366
+msgid "Development Mode"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:362
+msgid "Check Again"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:382
+msgid "Purchase Code"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:389
+msgid "Purchase Date"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:403
+msgid "Supported Until"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:408
+msgid " (Expired)"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:410
+msgid "Please renew your item support for any support requests. See"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:410
+msgid "this document"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:410
+msgid "for more details."
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:419
+msgid "Deactivation"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:425
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:429
+msgid "Activate License"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:461
+msgid "Purchase code not entered."
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:472
+msgid "Email address is considered invalid."
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:477
+msgid "Please agree to our terms and conditions."
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:503
+msgid "No connection to the server, try another time, or contact support."
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:551
+msgid ""
+"Could not receive data from the server, try another time, or contact support."
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:589
+msgid "Support expired."
+msgstr ""
+
+#. translators: theme name and link activation.
+#: inc/classes/class-csco-theme-activation.php:592
+msgid ""
+"Your support for the %1$s theme has expired. Please %2$s for any support "
+"requests."
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:592
+msgid "renew your support license"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:624
+msgid "Multiple active websites detected."
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:624
+msgid ""
+"Looks like you’re using the same theme license on multiple websites. A "
+"website theme can only be customized to create one customized website "
+"according to the ThemeForest license terms. If you want to create a second "
+"website from the same theme, you’ll need to"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:624
+msgid "purchase another license"
+msgstr ""
+
+#. translators: link activation.
+#: inc/classes/class-csco-theme-activation.php:683
+msgid "Please %1$s to unlock demo content."
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:683,
+#: inc/classes/class-csco-theme-activation.php:680
+msgid "activate your license"
+msgstr ""
+
+#: inc/classes/class-csco-theme-activation.php:680
+msgid "Please %1$s to unlock theme demos."
+msgstr ""
+
+#: inc/classes/class-csco-theme-fonts.php:80
+msgid "Theme Fonts"
+msgstr ""
+
+#: inc/demo-import/customizer-demos.php:28,
+#: inc/demo-import/customizer-demos.php:33
+msgid "Reset"
+msgstr ""
+
+#: inc/demo-import/customizer-demos.php:30
+msgid "Click the button to reset the customization settings for this theme."
+msgstr ""
+
+#: inc/demo-import/customizer-demos.php:44
+msgid "Select Demo"
+msgstr ""
+
+#: inc/demo-import/customizer-demos.php:65
+msgid "Activate"
+msgstr ""
+
+#: inc/demo-import/customizer-demos.php:128
+msgid "Theme Demos"
+msgstr ""
+
+#: inc/demo-import/customizer-demos.php:330
+msgid "Warning: Activating a demo will reset all current customizations."
+msgstr ""
+
+#: inc/demo-import/customizer-demos.php:352
+msgid "Server error!"
+msgstr ""
+
+#: inc/demo-import/customizer-demos.php:481
+msgid "Warning: This action will reset all current customizations."
+msgstr ""
+
+#: inc/demo-import/customizer-demos.php:503
+msgid "Error server!"
+msgstr ""
+
+#: inc/demo-import/ocdi-filters.php:29
+msgid "Demo Content"
+msgstr ""
+
+#: inc/demo-import/ocdi-filters.php:41
+msgid "Demo Content Import"
+msgstr ""
+
+#: inc/demo-import/ocdi-filters.php:53
+msgid ""
+"Clicking the Import Demo Data button will import demo posts, pages, "
+"categories, comments, tags and widgets."
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:13
+msgid "Posts Section"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:14
+msgid "Large Posts Section"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:15
+msgid "Subscription"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:26
+msgid "Section 1"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:32
+msgid "Section 2"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:38
+msgid "Section 3"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:44
+msgid "Section 4"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:50
+msgid "Section 5"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:56
+msgid "Section 6"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:62
+msgid "Section 7"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:68
+msgid "Section 8"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:74
+msgid "Section 9"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:80
+msgid "Section 10"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:86
+msgid "Section 11"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:92
+msgid "Section 12"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:98
+msgid "Section 13"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:104
+msgid "Section 14"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:110
+msgid "Section 15"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:116
+msgid "Section 16"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:122
+msgid "Section 17"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:128
+msgid "Section 18"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:134
+msgid "Section 19"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:140
+msgid "Section 20"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:146
+msgid "Section 21"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:152
+msgid "Section 22"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:158
+msgid "Section 23"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:164
+msgid "Section 24"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:170
+msgid "Section 25"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:176
+msgid "Section 26"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:182
+msgid "Section 27"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:188
+msgid "Section 28"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:194
+msgid "Section 29"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:200
+msgid "Section 30"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:206
+msgid "Section 31"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:212
+msgid "Section 32"
+msgstr ""
+
+#: inc/demo-import/theme-sections.php:218
+msgid "Section 33"
+msgstr ""
+
+#: inc/gutenberg/editor.php:104
+msgid "Blue"
+msgstr ""
+
+#: inc/gutenberg/editor.php:109
+msgid "Green"
+msgstr ""
+
+#: inc/gutenberg/editor.php:114
+msgid "Orange"
+msgstr ""
+
+#: inc/gutenberg/editor.php:119
+msgid "Red"
+msgstr ""
+
+#: inc/gutenberg/editor.php:124
+msgid "Pale Pink"
+msgstr ""
+
+#: inc/gutenberg/editor.php:129
+msgid "White"
+msgstr ""
+
+#: inc/gutenberg/editor.php:134
+msgid "Gray 50"
+msgstr ""
+
+#: inc/gutenberg/editor.php:139
+msgid "Gray 100"
+msgstr ""
+
+#: inc/gutenberg/editor.php:144
+msgid "Gray 200"
+msgstr ""
+
+#: inc/gutenberg/editor.php:154
+msgid "Black"
+msgstr ""
+
+#: inc/gutenberg/filters.php:94
+msgid "Gap"
+msgstr ""
+
+#: inc/gutenberg/filters.php:119
+msgid "Sidebar Width"
+msgstr ""
+
+#: inc/gutenberg/filters.php:146, inc/gutenberg/filters.php:273,
+#: inc/theme-mods/typography-settings.php:706,
+#: inc/theme-mods/typography-settings.php:1144
+msgid "Text Color"
+msgstr ""
+
+#: inc/gutenberg/filters.php:147, inc/gutenberg/filters.php:161,
+#: inc/gutenberg/filters.php:321
+msgid "Color Settings"
+msgstr ""
+
+#: inc/gutenberg/filters.php:160
+msgid "Background Color"
+msgstr ""
+
+#: inc/gutenberg/filters.php:213
+msgid "Decorative Font"
+msgstr ""
+
+#: inc/gutenberg/filters.php:229, inc/theme-mods/typography-settings.php:549,
+#: inc/theme-mods/typography-settings.php:945
+msgid "Border Color"
+msgstr ""
+
+#: inc/gutenberg/filters.php:242, inc/theme-mods/design-settings.php:189,
+#: inc/theme-mods/design-settings.php:832,
+#: inc/theme-mods/typography-settings.php:599,
+#: inc/theme-mods/typography-settings.php:1009
+msgid "Accent Color"
+msgstr ""
+
+#: inc/gutenberg/filters.php:260, inc/theme-mods/design-settings.php:212,
+#: inc/theme-mods/design-settings.php:861,
+#: inc/theme-mods/typography-settings.php:657,
+#: inc/theme-mods/typography-settings.php:1081
+msgid "Accent Contrast Color"
+msgstr ""
+
+#: inc/gutenberg/filters.php:298
+msgid "Current Date"
+msgstr ""
+
+#: inc/gutenberg/filters.php:332
+msgid "Format"
+msgstr ""
+
+#: inc/gutenberg/filters.php:339
+msgid "Text Align"
+msgstr ""
+
+#: inc/gutenberg/filters.php:344
+msgid "Left"
+msgstr ""
+
+#: inc/gutenberg/filters.php:345
+msgid "Right"
+msgstr ""
+
+#: inc/gutenberg/filters.php:346
+msgid "Center"
+msgstr ""
+
+#: inc/gutenberg/filters.php:359
+msgid "Color"
+msgstr ""
+
+#: inc/gutenberg/filters.php:372
+msgid "Font Size"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:44, inc/gutenberg/helpers.php:215
+msgid "Pagination type"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:52, inc/gutenberg/helpers.php:222,
+#: inc/theme-mods/archive-settings.php:354,
+#: inc/theme-mods/homepage-settings.php:391
+msgid "Infinite Load"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:310
+msgid "Posts Count"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:581, inc/theme-mods/archive-settings.php:240,
+#: inc/theme-mods/header-settings.php:361,
+#: inc/theme-mods/header-settings.php:810,
+#: inc/theme-mods/homepage-settings.php:277,
+#: inc/theme-mods/post-settings.php:59, inc/theme-mods/post-settings.php:314,
+#: inc/theme-mods/post-settings.php:523
+msgid "Category"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:597, inc/theme-mods/archive-settings.php:242,
+#: inc/theme-mods/header-settings.php:362,
+#: inc/theme-mods/header-settings.php:395,
+#: inc/theme-mods/header-settings.php:497,
+#: inc/theme-mods/header-settings.php:811,
+#: inc/theme-mods/homepage-settings.php:279,
+#: inc/theme-mods/post-settings.php:60, inc/theme-mods/post-settings.php:315,
+#: inc/theme-mods/post-settings.php:524, inc/theme-mods/post-settings.php:582
+msgid "Date"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:613, inc/theme-mods/archive-settings.php:243,
+#: inc/theme-mods/header-settings.php:364,
+#: inc/theme-mods/header-settings.php:813,
+#: inc/theme-mods/homepage-settings.php:280,
+#: inc/theme-mods/post-settings.php:62, inc/theme-mods/post-settings.php:317,
+#: inc/theme-mods/post-settings.php:526, inc/theme-mods/post-settings.php:583
+msgid "Views"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:621, inc/theme-mods/archive-settings.php:246,
+#: inc/theme-mods/header-settings.php:367,
+#: inc/theme-mods/header-settings.php:816,
+#: inc/theme-mods/homepage-settings.php:283,
+#: inc/theme-mods/post-settings.php:65, inc/theme-mods/post-settings.php:320,
+#: inc/theme-mods/post-settings.php:529
+msgid "Reading Time"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:643
+msgid "Display compact post meta"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:681
+msgid "Display post excerpt"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:689
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:740
+msgid "Display view post link"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:748
+msgid "View Post Link Label"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:795, inc/theme-mods/archive-settings.php:305,
+#: inc/theme-mods/homepage-settings.php:342
+msgid "Display read more button"
+msgstr ""
+
+#: inc/gutenberg/helpers.php:803
+msgid "More Button Label"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:11
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:21,
+#: inc/theme-mods/footer-settings.php:36,
+#: inc/theme-mods/header-settings.php:35,
+#: inc/theme-mods/homepage-settings.php:58,
+#: inc/theme-mods/post-settings.php:210
+msgid "Layout"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:26,
+#: inc/theme-mods/homepage-settings.php:63
+msgid "Full Post Layout"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:27,
+#: inc/theme-mods/homepage-settings.php:64
+msgid "List Layout"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:28,
+#: inc/theme-mods/homepage-settings.php:65
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:55,
+#: inc/theme-mods/homepage-settings.php:92
+msgid "Number of Columns Desktop"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:86,
+#: inc/theme-mods/homepage-settings.php:123
+msgid "Number of Columns Tablet"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:118,
+#: inc/theme-mods/homepage-settings.php:155
+msgid "Number of Columns Mobile"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:150,
+#: inc/theme-mods/homepage-settings.php:187,
+#: inc/gutenberg/blocks/horizontal-type-1.php:92,
+#: inc/gutenberg/blocks/horizontal-type-2.php:81,
+#: inc/gutenberg/blocks/horizontal-type-3.php:81,
+#: inc/gutenberg/blocks/horizontal-type-4.php:81,
+#: inc/gutenberg/blocks/horizontal-type-5.php:81,
+#: inc/gutenberg/blocks/standard-type-1.php:81,
+#: inc/gutenberg/blocks/standard-type-2.php:81,
+#: inc/gutenberg/blocks/standard-type-3.php:81,
+#: inc/gutenberg/blocks/standard-type-4.php:81,
+#: inc/gutenberg/blocks/tile-type-1.php:96,
+#: inc/gutenberg/blocks/tile-type-2.php:81,
+#: inc/gutenberg/blocks/tile-type-3.php:81
+msgid "Display borders between posts"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:210,
+#: inc/theme-mods/homepage-settings.php:247,
+#: inc/gutenberg/blocks/horizontal-type-1.php:81
+msgid "Image Width"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:214,
+#: inc/theme-mods/homepage-settings.php:251,
+#: inc/gutenberg/blocks/horizontal-type-1.php:86
+msgid "One Third"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:215,
+#: inc/theme-mods/homepage-settings.php:252,
+#: inc/gutenberg/blocks/horizontal-type-1.php:87
+msgid "Half"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:257,
+#: inc/theme-mods/homepage-settings.php:294
+msgid "Post Preview Image Size"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:262,
+#: inc/theme-mods/homepage-settings.php:299,
+#: inc/theme-mods/page-settings.php:64, inc/theme-mods/post-settings.php:121
+msgid "Display Cropped Image"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:263,
+#: inc/theme-mods/homepage-settings.php:300,
+#: inc/theme-mods/page-settings.php:65, inc/theme-mods/post-settings.php:122
+msgid "Display Preview in Original Ratio"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:280,
+#: inc/theme-mods/homepage-settings.php:317
+msgid "Full Post Summary"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:285,
+#: inc/theme-mods/homepage-settings.php:322
+msgid "Use Excerpts"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:286,
+#: inc/theme-mods/homepage-settings.php:323
+msgid "Use Read More Tag"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:326,
+#: inc/theme-mods/homepage-settings.php:363
+msgid "Display view link"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:347,
+#: inc/theme-mods/homepage-settings.php:384
+msgid "Pagination"
+msgstr ""
+
+#: inc/theme-mods/archive-settings.php:353,
+#: inc/theme-mods/homepage-settings.php:390
+msgid "Load More Button"
+msgstr ""
+
+#: inc/theme-mods/category-settings.php:11
+msgid "Category Settings"
+msgstr ""
+
+#: inc/theme-mods/category-settings.php:21
+msgid "Display subcategory filter"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:11
+msgid "Design"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:25
+msgid "design"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:37,
+#: inc/theme-mods/footer-settings.php:22,
+#: inc/theme-mods/header-settings.php:22, inc/theme-mods/post-settings.php:22,
+#: inc/theme-mods/typography-settings.php:484
+msgid "Common"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:50,
+#: inc/theme-mods/design-settings.php:653
+msgid "Site Background"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:72,
+#: inc/theme-mods/design-settings.php:682
+msgid "Site Search Background"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:94,
+#: inc/theme-mods/design-settings.php:711
+msgid "Topbar Background"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:123,
+#: inc/theme-mods/design-settings.php:745
+msgid "Header Background"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:145,
+#: inc/theme-mods/design-settings.php:774
+msgid "Submenu Background"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:167,
+#: inc/theme-mods/design-settings.php:803
+msgid "Footer Background"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:234,
+#: inc/theme-mods/design-settings.php:890
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:261,
+#: inc/theme-mods/design-settings.php:924
+msgid "Secondary Contrast Color"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:283,
+#: inc/theme-mods/design-settings.php:953
+msgid "Styled Heading Background"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:305,
+#: inc/theme-mods/design-settings.php:982
+msgid "Styled Heading Color"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:327,
+#: inc/theme-mods/design-settings.php:1011
+msgid "Styled Heading Hover Background"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:349,
+#: inc/theme-mods/design-settings.php:1040
+msgid "Styled Heading Hover Color"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:371,
+#: inc/theme-mods/design-settings.php:1069,
+#: inc/gutenberg/blocks/horizontal-type-4.php:305,
+#: inc/gutenberg/blocks/large-type-1.php:253,
+#: inc/gutenberg/blocks/large-type-2.php:253,
+#: inc/gutenberg/blocks/large-type-3.php:195,
+#: inc/gutenberg/blocks/large-type-4.php:210,
+#: inc/gutenberg/blocks/large-type-5.php:225,
+#: inc/gutenberg/blocks/large-type-6.php:225,
+#: inc/gutenberg/blocks/large-type-7.php:253,
+#: inc/gutenberg/blocks/large-type-8.php:196,
+#: inc/gutenberg/blocks/large-type-9.php:196,
+#: inc/gutenberg/blocks/standard-type-2.php:313,
+#: inc/gutenberg/blocks/tile-type-1.php:269
+msgid "Styled Category Background"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:393,
+#: inc/theme-mods/design-settings.php:1098,
+#: inc/gutenberg/blocks/horizontal-type-4.php:318,
+#: inc/gutenberg/blocks/large-type-1.php:266,
+#: inc/gutenberg/blocks/large-type-2.php:266,
+#: inc/gutenberg/blocks/large-type-3.php:208,
+#: inc/gutenberg/blocks/large-type-4.php:223,
+#: inc/gutenberg/blocks/large-type-5.php:238,
+#: inc/gutenberg/blocks/large-type-6.php:238,
+#: inc/gutenberg/blocks/large-type-7.php:266,
+#: inc/gutenberg/blocks/large-type-8.php:209,
+#: inc/gutenberg/blocks/large-type-9.php:209,
+#: inc/gutenberg/blocks/standard-type-2.php:326,
+#: inc/gutenberg/blocks/tile-type-1.php:282
+msgid "Styled Category Color"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:415,
+#: inc/theme-mods/design-settings.php:1127
+msgid "Styled Category Hover Background"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:437,
+#: inc/theme-mods/design-settings.php:1156
+msgid "Styled Category Hover Color"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:459,
+#: inc/theme-mods/design-settings.php:1185,
+#: inc/gutenberg/blocks/horizontal-type-1.php:318,
+#: inc/gutenberg/blocks/horizontal-type-2.php:279,
+#: inc/gutenberg/blocks/horizontal-type-3.php:279,
+#: inc/gutenberg/blocks/horizontal-type-5.php:294,
+#: inc/gutenberg/blocks/standard-type-1.php:309,
+#: inc/gutenberg/blocks/standard-type-3.php:313,
+#: inc/gutenberg/blocks/standard-type-4.php:281,
+#: inc/gutenberg/blocks/tile-type-2.php:312,
+#: inc/gutenberg/blocks/tile-type-3.php:327
+msgid "Category Color"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:481,
+#: inc/theme-mods/design-settings.php:1214,
+#: inc/gutenberg/blocks/horizontal-type-1.php:331,
+#: inc/gutenberg/blocks/horizontal-type-2.php:292,
+#: inc/gutenberg/blocks/horizontal-type-3.php:292,
+#: inc/gutenberg/blocks/horizontal-type-5.php:307,
+#: inc/gutenberg/blocks/standard-type-1.php:322,
+#: inc/gutenberg/blocks/standard-type-3.php:326,
+#: inc/gutenberg/blocks/standard-type-4.php:294,
+#: inc/gutenberg/blocks/tile-type-2.php:325,
+#: inc/gutenberg/blocks/tile-type-3.php:340
+msgid "Category Hover Color"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:503,
+#: inc/theme-mods/design-settings.php:1243,
+#: inc/gutenberg/blocks/horizontal-type-1.php:344,
+#: inc/gutenberg/blocks/horizontal-type-2.php:305,
+#: inc/gutenberg/blocks/horizontal-type-3.php:305,
+#: inc/gutenberg/blocks/horizontal-type-5.php:320,
+#: inc/gutenberg/blocks/standard-type-1.php:335,
+#: inc/gutenberg/blocks/standard-type-3.php:339,
+#: inc/gutenberg/blocks/standard-type-4.php:307,
+#: inc/gutenberg/blocks/tile-type-2.php:338,
+#: inc/gutenberg/blocks/tile-type-3.php:353
+msgid "Category Underline Color"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:569,
+#: inc/theme-mods/design-settings.php:1330
+msgid "Button Hover Background"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:591,
+#: inc/theme-mods/design-settings.php:1359
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:613,
+#: inc/theme-mods/design-settings.php:1388
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:636
+msgid "Dark Scheme"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:1411
+msgid "Border Radius"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:1421
+msgid "Common Border Radius"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:1422
+msgid ""
+"Used on containers and layers. For example: 10px. If the input is empty, "
+"original value will be used."
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:1442
+msgid "Primary Border Radius"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:1443
+msgid ""
+"Used on all primary elements. For example: 10px. If the input is empty, "
+"original value will be used."
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:1463
+msgid "Secondary Border Radius"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:1464
+msgid ""
+"Used on square elements. For example: 10px. If the input is empty, original "
+"value will be used."
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:1484
+msgid "Styled Category Border Radius"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:1485
+msgid ""
+"Used on styled categories. For example: 10px. If the input is empty, "
+"original value will be used."
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:1505
+msgid "Primary Image Border Radius"
+msgstr ""
+
+#: inc/theme-mods/design-settings.php:1506
+msgid ""
+"Used on post thumbnail. For example: 10px. If the input is empty, original "
+"value will be used."
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:11
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:41
+msgid "Footer 1"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:42
+msgid "Footer 2"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:52
+msgid "Footer Text"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:67, inc/theme-mods/post-settings.php:364
+msgid "Subscription Form"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:78, inc/theme-mods/post-settings.php:374
+msgid "Display subscribe section"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:90, inc/theme-mods/post-settings.php:386
+msgid "Display first name field"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:109,
+#: inc/gutenberg/blocks/horizontal-type-1.php:220,
+#: inc/gutenberg/blocks/horizontal-type-2.php:181,
+#: inc/gutenberg/blocks/horizontal-type-3.php:181,
+#: inc/gutenberg/blocks/horizontal-type-5.php:196,
+#: inc/gutenberg/blocks/standard-type-1.php:224,
+#: inc/gutenberg/blocks/standard-type-3.php:202,
+#: inc/gutenberg/blocks/standard-type-4.php:196,
+#: inc/gutenberg/blocks/tile-type-2.php:201,
+#: inc/gutenberg/blocks/tile-type-3.php:216
+msgid "Heading"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:129, inc/theme-mods/post-settings.php:405
+msgid "Title"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:131, inc/theme-mods/post-settings.php:407
+msgid "Subscribe to Our Newsletter"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:149, inc/theme-mods/post-settings.php:424
+msgid "Text"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:171,
+#: inc/theme-mods/header-settings.php:552
+msgid "Social Links"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:182,
+#: inc/theme-mods/header-settings.php:562
+msgid "Display social links"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:194,
+#: inc/theme-mods/header-settings.php:574
+msgid "Color scheme"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:199,
+#: inc/theme-mods/header-settings.php:579
+msgid "Light"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:200,
+#: inc/theme-mods/header-settings.php:580
+msgid "Bold"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:217,
+#: inc/theme-mods/header-settings.php:597
+msgid "Maximum Number of Social Links"
+msgstr ""
+
+#: inc/theme-mods/footer-settings.php:236
+msgid "Display counts"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:11
+msgid "Header Settings"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:40
+msgid "Header 1"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:41
+msgid "Header 2"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:42
+msgid "Header 3"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:43
+msgid "Header 4"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:53
+msgid "Topbar Height"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:78
+msgid "Header Initial Height"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:103
+msgid "Header Height"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:121
+msgid "Make navigation bar sticky"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:122
+msgid "Enabling this option will make navigation bar visible when scrolling."
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:134
+msgid "Enable the smart sticky feature"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:135
+msgid ""
+"Enabling this option will reveal navigation bar when scrolling up and hide "
+"it when scrolling down."
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:154
+msgid "Header Text"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:174
+msgid "Display offcanvas toggle button"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:186
+msgid "Display navigation menu"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:209
+msgid "Display search button"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:221
+msgid "Display search posts"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:222
+msgid "Display posts in popup search form."
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:241
+msgid "Heading of Posts"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:390, inc/theme-mods/post-settings.php:576
+msgid "Order posts by"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:396
+msgid "Random"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:397,
+#: inc/theme-mods/header-settings.php:499
+msgid "Name"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:398,
+#: inc/theme-mods/header-settings.php:500
+msgid "ID"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:420
+msgid "Order posts"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:425,
+#: inc/theme-mods/header-settings.php:527
+msgid "ASC"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:426,
+#: inc/theme-mods/header-settings.php:528
+msgid "DESC"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:448
+msgid "Display search tags"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:449
+msgid "Display tags in popup search form."
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:468
+msgid "Maximum Number of Tags"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:492
+msgid "Order tags by"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:498
+msgid "Count of Posts"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:522
+msgid "Order tags"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:616
+msgid "Display social counts"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:637
+msgid "Custom Button"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:647
+msgid "Button Link"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:659
+msgid "Button Label"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:673
+msgid "Multi-Column Sub-Menu"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:683
+msgid "Display multi-column sub-menu"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:706
+msgid "Display single-column sub-menu"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:718
+msgid "Dropdown Title"
+msgstr ""
+
+#: inc/theme-mods/header-settings.php:737
+msgid "Background Image"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:26
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:39
+msgid "Homepage Settings"
+msgstr ""
+
+#: inc/theme-mods/homepage-settings.php:47
+msgid "Homepage Layout"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:11
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:21
+msgid "Enable Dark Mode"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:33
+msgid "Display published date instead of modified date"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:45
+msgid "Search Form Placeholder"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:57
+msgid "\"Read More\" Link / Button Label"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:69
+msgid "Alignment of Galleries in Classic Block"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:75
+msgid "Wide"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:86
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:98
+msgid "Sticky Method"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:103
+msgid "Sidebar top edge"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:104
+msgid "Sidebar bottom edge"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:105
+msgid "Last widget top edge"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:122
+msgid "Webfonts Load Method"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:123
+msgid "Please"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:123
+msgid "reset font cache"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:123
+msgid "after saving."
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:128
+msgid "Asynchronous"
+msgstr ""
+
+#: inc/theme-mods/miscellaneous-settings.php:129
+msgid "Render-Blocking"
+msgstr ""
+
+#: inc/theme-mods/page-settings.php:11
+msgid "Page Settings"
+msgstr ""
+
+#: inc/theme-mods/page-settings.php:59, inc/theme-mods/post-settings.php:116
+msgid "Standard Page Header Preview"
+msgstr ""
+
+#: inc/theme-mods/page-settings.php:82, inc/theme-mods/post-settings.php:175
+msgid "Display comments without the View Comments button"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:11
+msgid "Post Settings"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:76, inc/theme-mods/post-settings.php:338
+msgid "Display avatar in post meta author"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:95
+msgid "Default Page Header Type"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:139
+msgid "Display excerpt as post subtitle"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:151
+msgid "Display post author"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:163
+msgid "Display tags"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:188
+msgid "Prev Next Links"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:198
+msgid "Display prev next links"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:215
+msgid "Type 1"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:216
+msgid "Type 2"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:446,
+#: template-parts/entry/entry-related.php:60
+msgid "Related Posts"
+msgstr "Articles Similaires"
+
+#: inc/theme-mods/post-settings.php:456
+msgid "Display related section"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:547
+msgid "Maximum Number of Related Posts"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:581
+msgid "Rand"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:600
+msgid "Time Frame"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:601
+msgid ""
+"Add period of posts in English. For example: &laquo;2 months&raquo;, &laquo;"
+"14 days&raquo; or even &laquo;1 year&raquo;"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:637
+msgid "Enable the Auto Load Next Post feature"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:649
+msgid "Auto load posts from the same category only"
+msgstr ""
+
+#: inc/theme-mods/post-settings.php:668
+msgid "Auto load previous posts instead of next ones"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:13,
+#: inc/theme-mods/typography-settings.php:313
+msgid "Main Logo"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:14
+msgid ""
+"The main logo is used in the navigation bar and mobile view of your website. "
+"Logo image will be displayed in its original image dimensions. Please upload "
+"the 2x version of your logo via Media Library with "
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:14, inc/theme-mods/site-identity.php:57,
+#: inc/theme-mods/site-identity.php:126
+msgid " suffix for supporting Retina screens. For example "
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:14
+msgid ". Recommended maximum height is 40px (80px for Retina version)."
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:29
+msgid "Main Logo for Dark Mode"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:56,
+#: inc/theme-mods/typography-settings.php:341
+msgid "Large Logo"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:57
+msgid ""
+"The large logo is used in the site header in desktop view. Similar to the "
+"main logo, upload the 2x version of your logo via Media Library with "
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:57, inc/theme-mods/site-identity.php:126
+msgid ". Recommended maximum height is 80px (160px for Retina version)."
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:86
+msgid "Large Logo for Dark Mode"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:125,
+#: inc/theme-mods/typography-settings.php:381
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:126
+msgid ""
+"The footer logo is used in the site footer in desktop and mobile view. "
+"Similar to the main logo, upload the 2x version of your logo via Media "
+"Library with "
+msgstr ""
+
+#: inc/theme-mods/site-identity.php:141
+msgid "Footer Logo for Dark Mode"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:11
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:30
+msgid "Base Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:61
+msgid "Primary Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:62
+msgid "Used for buttons, and tags and other actionable elements."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:91
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:92
+msgid "Used for image captions and other secondary elements."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:121
+msgid "Category Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:141
+msgid "Post Meta Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:170
+msgid "Input Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:191
+msgid "Post Subtitle Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:220
+msgid "Post Content Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:249
+msgid "Summary Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:276
+msgid "Entry Excerpt Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:302
+msgid "Logos"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:314
+msgid ""
+"The main logo is used in the navigation bar and mobile view of your website."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:351
+msgid "The large logo is used in the site header in desktop view."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:382
+msgid "The footer logo is used in the site footer in desktop and mobile view."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:407,
+#: inc/theme-mods/typography-settings.php:418
+msgid "Headings"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:438
+msgid "Styled Heading"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:453
+msgid "Decorated Heading"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:472
+msgid "Section Headings"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:494,
+#: inc/theme-mods/typography-settings.php:820
+msgid "Default Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:517,
+#: inc/theme-mods/typography-settings.php:850
+msgid "Default Style"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:522,
+#: inc/theme-mods/typography-settings.php:855
+msgid "Plain"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:523,
+#: inc/theme-mods/typography-settings.php:856
+msgid "Thin Bottom Line"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:524,
+#: inc/theme-mods/typography-settings.php:857
+msgid "Thick Bottom Line"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:525,
+#: inc/theme-mods/typography-settings.php:858
+msgid "Thin Side Line"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:526,
+#: inc/theme-mods/typography-settings.php:859
+msgid "Thick Side Line"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:527,
+#: inc/theme-mods/typography-settings.php:860
+msgid "Top Line"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:528,
+#: inc/theme-mods/typography-settings.php:861
+msgid "Bottom Line, Medium Length"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:529,
+#: inc/theme-mods/typography-settings.php:862
+msgid "Side Line with Angle"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:530,
+#: inc/theme-mods/typography-settings.php:863
+msgid "Cross Icon"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:531,
+#: inc/theme-mods/typography-settings.php:864
+msgid "Scewed Background"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:532,
+#: inc/theme-mods/typography-settings.php:865
+msgid "Scewed Background, Side Line"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:533,
+#: inc/theme-mods/typography-settings.php:866
+msgid "Solid Background"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:534,
+#: inc/theme-mods/typography-settings.php:867
+msgid "Bordered"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:535,
+#: inc/theme-mods/typography-settings.php:868
+msgid "Solid Background, Fullwidth"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:536,
+#: inc/theme-mods/typography-settings.php:869
+msgid "Bordered, Fullwidth"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:537,
+#: inc/theme-mods/typography-settings.php:870
+msgid "Double Line with Angle"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:538,
+#: inc/theme-mods/typography-settings.php:871
+msgid "Bottom Line, Short Length"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:539,
+#: inc/theme-mods/typography-settings.php:872
+msgid "Decorative"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:574,
+#: inc/theme-mods/typography-settings.php:977
+msgid "Dark Border Color"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:628,
+#: inc/theme-mods/typography-settings.php:1045
+msgid "Dark Accent Color"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:681,
+#: inc/theme-mods/typography-settings.php:1112
+msgid "Dark Accent Contrast Color"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:730,
+#: inc/theme-mods/typography-settings.php:1175
+msgid "Dark Text Color"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:754,
+#: inc/theme-mods/typography-settings.php:890
+msgid "Default Align"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:759,
+#: inc/theme-mods/typography-settings.php:895
+msgid "Align Text Left"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:760,
+#: inc/theme-mods/typography-settings.php:896
+msgid "Align Text Center"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:761,
+#: inc/theme-mods/typography-settings.php:897
+msgid "Align Text Right"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:773,
+#: inc/theme-mods/typography-settings.php:916
+msgid "Default Tag"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:797
+msgid "Widgetized Sub-Menus"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:807
+msgid "Default Settings"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:808
+msgid "You may change the default settings in Common Settings"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:1204
+msgid "Navigation"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:1215
+msgid "Menu Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:1216
+msgid "Used for main top level menu elements."
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:1236
+msgid "Submenu Font"
+msgstr ""
+
+#: inc/theme-mods/typography-settings.php:1237
+msgid "Used for submenu elements."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/archive/content-full.php:66
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/blocks/large-type-1.php:89,
+#: template-parts/blocks/large-type-2.php:89,
+#: template-parts/blocks/large-type-3.php:65,
+#: template-parts/blocks/large-type-4.php:74,
+#: template-parts/blocks/large-type-5.php:78,
+#: template-parts/blocks/large-type-6.php:78,
+#: template-parts/blocks/large-type-7.php:91,
+#: template-parts/blocks/large-type-8.php:87,
+#: template-parts/blocks/large-type-9.php:87,
+#: template-parts/blocks/posts-area.php:135
+msgid "There aren't enough posts that match the filter criteria."
+msgstr ""
+
+#: template-parts/blocks/posts-area.php:124
+msgid ""
+"Please select a page for your blog posts in Settings &rarr; Reading to "
+"display pagination."
+msgstr ""
+
+#: template-parts/entry/entry-prev-next.php:44
+msgid "Previous Article"
+msgstr "Article précédent"
+
+#: template-parts/entry/entry-prev-next.php:90
+msgid "Next Article"
+msgstr "Article suivant"
+
+#: inc/gutenberg/blocks/horizontal-type-1.php:20
+msgid "Horizontal 1"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-1.php:30,
+#: inc/gutenberg/blocks/horizontal-type-2.php:30,
+#: inc/gutenberg/blocks/horizontal-type-3.php:30,
+#: inc/gutenberg/blocks/horizontal-type-4.php:30,
+#: inc/gutenberg/blocks/horizontal-type-5.php:30,
+#: inc/gutenberg/blocks/large-type-3.php:30,
+#: inc/gutenberg/blocks/large-type-4.php:30,
+#: inc/gutenberg/blocks/large-type-5.php:30,
+#: inc/gutenberg/blocks/large-type-6.php:30,
+#: inc/gutenberg/blocks/large-type-8.php:30,
+#: inc/gutenberg/blocks/large-type-9.php:30,
+#: inc/gutenberg/blocks/standard-type-1.php:30,
+#: inc/gutenberg/blocks/standard-type-2.php:30,
+#: inc/gutenberg/blocks/standard-type-3.php:30,
+#: inc/gutenberg/blocks/standard-type-4.php:30,
+#: inc/gutenberg/blocks/tile-type-1.php:30,
+#: inc/gutenberg/blocks/tile-type-2.php:30,
+#: inc/gutenberg/blocks/tile-type-3.php:30
+msgid "Meta Settings"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-1.php:64,
+#: inc/gutenberg/blocks/horizontal-type-2.php:64,
+#: inc/gutenberg/blocks/horizontal-type-3.php:64,
+#: inc/gutenberg/blocks/horizontal-type-4.php:64,
+#: inc/gutenberg/blocks/horizontal-type-5.php:64,
+#: inc/gutenberg/blocks/standard-type-1.php:64,
+#: inc/gutenberg/blocks/standard-type-2.php:64,
+#: inc/gutenberg/blocks/standard-type-3.php:64,
+#: inc/gutenberg/blocks/standard-type-4.php:64,
+#: inc/gutenberg/blocks/tile-type-1.php:64,
+#: inc/gutenberg/blocks/tile-type-2.php:64,
+#: inc/gutenberg/blocks/tile-type-3.php:64
+msgid "Gap between Posts"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-1.php:99,
+#: inc/gutenberg/blocks/standard-type-1.php:88
+msgid "Enable post format"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-1.php:106,
+#: inc/gutenberg/blocks/large-type-1.php:47,
+#: inc/gutenberg/blocks/large-type-2.php:47,
+#: inc/gutenberg/blocks/large-type-3.php:43,
+#: inc/gutenberg/blocks/large-type-4.php:43,
+#: inc/gutenberg/blocks/large-type-5.php:43,
+#: inc/gutenberg/blocks/large-type-6.php:43,
+#: inc/gutenberg/blocks/large-type-7.php:47,
+#: inc/gutenberg/blocks/large-type-8.php:43,
+#: inc/gutenberg/blocks/large-type-9.php:43,
+#: inc/gutenberg/blocks/standard-type-1.php:95,
+#: inc/gutenberg/blocks/standard-type-2.php:88,
+#: inc/gutenberg/blocks/standard-type-3.php:88,
+#: inc/gutenberg/blocks/tile-type-1.php:103,
+#: inc/gutenberg/blocks/tile-type-2.php:88,
+#: inc/gutenberg/blocks/tile-type-3.php:88
+msgid "Enable video backgrounds"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-1.php:113,
+#: inc/gutenberg/blocks/large-type-3.php:50,
+#: inc/gutenberg/blocks/large-type-4.php:50,
+#: inc/gutenberg/blocks/large-type-5.php:50,
+#: inc/gutenberg/blocks/large-type-6.php:50,
+#: inc/gutenberg/blocks/standard-type-1.php:102,
+#: inc/gutenberg/blocks/standard-type-2.php:95,
+#: inc/gutenberg/blocks/standard-type-3.php:95,
+#: inc/gutenberg/blocks/tile-type-1.php:110,
+#: inc/gutenberg/blocks/tile-type-2.php:95,
+#: inc/gutenberg/blocks/tile-type-3.php:95
+msgid "Enable video controls"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-1.php:197,
+#: inc/gutenberg/blocks/horizontal-type-2.php:158,
+#: inc/gutenberg/blocks/horizontal-type-3.php:158,
+#: inc/gutenberg/blocks/horizontal-type-4.php:158,
+#: inc/gutenberg/blocks/horizontal-type-5.php:158,
+#: inc/gutenberg/blocks/large-type-3.php:120,
+#: inc/gutenberg/blocks/large-type-4.php:135,
+#: inc/gutenberg/blocks/large-type-5.php:150,
+#: inc/gutenberg/blocks/large-type-6.php:150,
+#: inc/gutenberg/blocks/large-type-8.php:121,
+#: inc/gutenberg/blocks/large-type-9.php:121,
+#: inc/gutenberg/blocks/standard-type-1.php:186,
+#: inc/gutenberg/blocks/standard-type-2.php:179,
+#: inc/gutenberg/blocks/standard-type-3.php:179,
+#: inc/gutenberg/blocks/standard-type-4.php:158,
+#: inc/gutenberg/blocks/tile-type-1.php:194,
+#: inc/gutenberg/blocks/tile-type-2.php:163,
+#: inc/gutenberg/blocks/tile-type-3.php:178
+msgid "Excerpt Font Size"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-1.php:233,
+#: inc/gutenberg/blocks/horizontal-type-2.php:194,
+#: inc/gutenberg/blocks/horizontal-type-3.php:194,
+#: inc/gutenberg/blocks/horizontal-type-5.php:209,
+#: inc/gutenberg/blocks/standard-type-1.php:237,
+#: inc/gutenberg/blocks/standard-type-3.php:215,
+#: inc/gutenberg/blocks/standard-type-4.php:209,
+#: inc/gutenberg/blocks/tile-type-2.php:214,
+#: inc/gutenberg/blocks/tile-type-3.php:229
+msgid "Heading Hover"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-1.php:246,
+#: inc/gutenberg/blocks/horizontal-type-2.php:207,
+#: inc/gutenberg/blocks/horizontal-type-3.php:207,
+#: inc/gutenberg/blocks/horizontal-type-4.php:233,
+#: inc/gutenberg/blocks/horizontal-type-5.php:222,
+#: inc/gutenberg/blocks/standard-type-1.php:250,
+#: inc/gutenberg/blocks/standard-type-2.php:254,
+#: inc/gutenberg/blocks/standard-type-3.php:228,
+#: inc/gutenberg/blocks/standard-type-4.php:222,
+#: inc/gutenberg/blocks/tile-type-2.php:227,
+#: inc/gutenberg/blocks/tile-type-3.php:242
+msgid "Excerpt"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-1.php:279,
+#: inc/gutenberg/blocks/horizontal-type-2.php:240,
+#: inc/gutenberg/blocks/horizontal-type-3.php:240,
+#: inc/gutenberg/blocks/horizontal-type-4.php:266,
+#: inc/gutenberg/blocks/horizontal-type-5.php:255,
+#: inc/gutenberg/blocks/standard-type-1.php:283,
+#: inc/gutenberg/blocks/standard-type-2.php:287,
+#: inc/gutenberg/blocks/standard-type-3.php:261,
+#: inc/gutenberg/blocks/standard-type-4.php:255,
+#: inc/gutenberg/blocks/tile-type-2.php:260,
+#: inc/gutenberg/blocks/tile-type-3.php:275
+msgid "Post Meta Links"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-1.php:292,
+#: inc/gutenberg/blocks/horizontal-type-2.php:253,
+#: inc/gutenberg/blocks/horizontal-type-3.php:253,
+#: inc/gutenberg/blocks/horizontal-type-4.php:279,
+#: inc/gutenberg/blocks/horizontal-type-5.php:268,
+#: inc/gutenberg/blocks/standard-type-1.php:296,
+#: inc/gutenberg/blocks/standard-type-2.php:300,
+#: inc/gutenberg/blocks/standard-type-3.php:274,
+#: inc/gutenberg/blocks/standard-type-4.php:268,
+#: inc/gutenberg/blocks/tile-type-2.php:273,
+#: inc/gutenberg/blocks/tile-type-3.php:288
+msgid "Post Meta Links Hover"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-1.php:305,
+#: inc/gutenberg/blocks/horizontal-type-2.php:266,
+#: inc/gutenberg/blocks/horizontal-type-3.php:266,
+#: inc/gutenberg/blocks/horizontal-type-4.php:292,
+#: inc/gutenberg/blocks/horizontal-type-5.php:281
+msgid "Separator"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-2.php:20
+msgid "Horizontal 2"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-3.php:20
+msgid "Horizontal 3"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-4.php:20
+msgid "Horizontal 4"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-4.php:181,
+#: inc/gutenberg/blocks/large-type-1.php:201,
+#: inc/gutenberg/blocks/large-type-2.php:201,
+#: inc/gutenberg/blocks/large-type-3.php:143,
+#: inc/gutenberg/blocks/large-type-4.php:158,
+#: inc/gutenberg/blocks/large-type-5.php:173,
+#: inc/gutenberg/blocks/large-type-6.php:173,
+#: inc/gutenberg/blocks/large-type-7.php:201,
+#: inc/gutenberg/blocks/large-type-8.php:144,
+#: inc/gutenberg/blocks/large-type-9.php:144,
+#: inc/gutenberg/blocks/standard-type-2.php:202,
+#: inc/gutenberg/blocks/tile-type-1.php:217
+msgid "Heading Background"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-4.php:194,
+#: inc/gutenberg/blocks/large-type-1.php:214,
+#: inc/gutenberg/blocks/large-type-2.php:214,
+#: inc/gutenberg/blocks/large-type-3.php:156,
+#: inc/gutenberg/blocks/large-type-4.php:171,
+#: inc/gutenberg/blocks/large-type-5.php:186,
+#: inc/gutenberg/blocks/large-type-6.php:186,
+#: inc/gutenberg/blocks/large-type-7.php:214,
+#: inc/gutenberg/blocks/large-type-8.php:157,
+#: inc/gutenberg/blocks/large-type-9.php:157,
+#: inc/gutenberg/blocks/standard-type-2.php:215,
+#: inc/gutenberg/blocks/tile-type-1.php:230
+msgid "Heading Color"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-4.php:207,
+#: inc/gutenberg/blocks/large-type-1.php:227,
+#: inc/gutenberg/blocks/large-type-2.php:227,
+#: inc/gutenberg/blocks/large-type-3.php:169,
+#: inc/gutenberg/blocks/large-type-4.php:184,
+#: inc/gutenberg/blocks/large-type-5.php:199,
+#: inc/gutenberg/blocks/large-type-6.php:199,
+#: inc/gutenberg/blocks/large-type-7.php:227,
+#: inc/gutenberg/blocks/standard-type-2.php:228,
+#: inc/gutenberg/blocks/tile-type-1.php:243
+msgid "Heading Background Hover"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-4.php:220,
+#: inc/gutenberg/blocks/large-type-1.php:240,
+#: inc/gutenberg/blocks/large-type-2.php:240,
+#: inc/gutenberg/blocks/large-type-3.php:182,
+#: inc/gutenberg/blocks/large-type-4.php:197,
+#: inc/gutenberg/blocks/large-type-5.php:212,
+#: inc/gutenberg/blocks/large-type-6.php:212,
+#: inc/gutenberg/blocks/large-type-7.php:240,
+#: inc/gutenberg/blocks/standard-type-2.php:241,
+#: inc/gutenberg/blocks/tile-type-1.php:256
+msgid "Heading Color Hover"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-4.php:331,
+#: inc/gutenberg/blocks/large-type-1.php:279,
+#: inc/gutenberg/blocks/large-type-2.php:279,
+#: inc/gutenberg/blocks/large-type-3.php:221,
+#: inc/gutenberg/blocks/large-type-4.php:236,
+#: inc/gutenberg/blocks/large-type-5.php:251,
+#: inc/gutenberg/blocks/large-type-6.php:251,
+#: inc/gutenberg/blocks/large-type-7.php:279,
+#: inc/gutenberg/blocks/large-type-8.php:222,
+#: inc/gutenberg/blocks/large-type-9.php:222,
+#: inc/gutenberg/blocks/standard-type-2.php:339,
+#: inc/gutenberg/blocks/tile-type-1.php:295
+msgid "Styled Category Background Hover"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-4.php:344,
+#: inc/gutenberg/blocks/large-type-1.php:292,
+#: inc/gutenberg/blocks/large-type-2.php:292,
+#: inc/gutenberg/blocks/large-type-3.php:234,
+#: inc/gutenberg/blocks/large-type-4.php:249,
+#: inc/gutenberg/blocks/large-type-5.php:264,
+#: inc/gutenberg/blocks/large-type-6.php:264,
+#: inc/gutenberg/blocks/large-type-7.php:292,
+#: inc/gutenberg/blocks/large-type-8.php:235,
+#: inc/gutenberg/blocks/large-type-9.php:235,
+#: inc/gutenberg/blocks/standard-type-2.php:352,
+#: inc/gutenberg/blocks/tile-type-1.php:308
+msgid "Styled Category Color Hover"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-5.php:20
+msgid "Horizontal 5"
+msgstr ""
+
+#: inc/gutenberg/blocks/horizontal-type-5.php:180,
+#: inc/gutenberg/blocks/standard-type-1.php:208,
+#: inc/gutenberg/blocks/standard-type-4.php:180,
+#: inc/gutenberg/blocks/tile-type-2.php:185,
+#: inc/gutenberg/blocks/tile-type-3.php:200
+msgid "Number Font Size"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:20
+msgid "Large 1"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:30,
+#: inc/gutenberg/blocks/large-type-2.php:30,
+#: inc/gutenberg/blocks/large-type-7.php:30
+msgid "Large Post Meta Settings"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:34,
+#: inc/gutenberg/blocks/large-type-2.php:34,
+#: inc/gutenberg/blocks/large-type-7.php:34
+msgid "Small Post Meta Settings"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:54,
+#: inc/gutenberg/blocks/large-type-2.php:54,
+#: inc/gutenberg/blocks/large-type-3.php:64,
+#: inc/gutenberg/blocks/large-type-4.php:79,
+#: inc/gutenberg/blocks/large-type-5.php:94,
+#: inc/gutenberg/blocks/large-type-6.php:94,
+#: inc/gutenberg/blocks/large-type-7.php:54,
+#: inc/gutenberg/blocks/large-type-8.php:65,
+#: inc/gutenberg/blocks/large-type-9.php:65
+msgid "Large Heading Max Width"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:69,
+#: inc/gutenberg/blocks/large-type-2.php:69,
+#: inc/gutenberg/blocks/large-type-7.php:69
+msgid "Large Post Image Size"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:77,
+#: inc/gutenberg/blocks/large-type-2.php:77,
+#: inc/gutenberg/blocks/large-type-7.php:77
+msgid "Small Image Orientation"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:93,
+#: inc/gutenberg/blocks/large-type-2.php:93,
+#: inc/gutenberg/blocks/large-type-7.php:93
+msgid "Small Post Image Size"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:101,
+#: inc/gutenberg/blocks/large-type-2.php:101,
+#: inc/gutenberg/blocks/large-type-7.php:101
+msgid "Small Post Image Border Radius"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:114,
+#: inc/gutenberg/blocks/large-type-2.php:114,
+#: inc/gutenberg/blocks/large-type-7.php:114
+msgid "Large Post Heading Font Size"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:129,
+#: inc/gutenberg/blocks/large-type-2.php:129,
+#: inc/gutenberg/blocks/large-type-7.php:129
+msgid "Large Post Heading Tag"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:146,
+#: inc/gutenberg/blocks/large-type-2.php:146,
+#: inc/gutenberg/blocks/large-type-7.php:146
+msgid "Large Post Excerpt Font Size"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:168,
+#: inc/gutenberg/blocks/large-type-2.php:168,
+#: inc/gutenberg/blocks/large-type-7.php:168
+msgid "Small Post Heading Font Size"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-1.php:183,
+#: inc/gutenberg/blocks/large-type-2.php:183,
+#: inc/gutenberg/blocks/large-type-7.php:183
+msgid "Small Post Heading Tag"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-2.php:20
+msgid "Large 2"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-3.php:20
+msgid "Large 3"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-4.php:20
+msgid "Large 4"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-4.php:64,
+#: inc/gutenberg/blocks/large-type-5.php:64,
+#: inc/gutenberg/blocks/large-type-6.php:64,
+#: inc/gutenberg/blocks/large-type-8.php:50,
+#: inc/gutenberg/blocks/large-type-9.php:50,
+#: inc/gutenberg/blocks/tile-type-1.php:81
+msgid "Min Height"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-5.php:20
+msgid "Large 5"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-5.php:79,
+#: inc/gutenberg/blocks/large-type-6.php:79
+msgid "Gap Padding"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-6.php:20
+msgid "Large 6"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-7.php:20
+msgid "Large 7"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-8.php:20
+msgid "Large 8"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-8.php:170,
+#: inc/gutenberg/blocks/large-type-9.php:170
+msgid "Heading Background Active"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-8.php:183,
+#: inc/gutenberg/blocks/large-type-9.php:183
+msgid "Heading Color Active"
+msgstr ""
+
+#: inc/gutenberg/blocks/large-type-9.php:20
+msgid "Large 9"
+msgstr ""
+
+#: inc/gutenberg/blocks/standard-type-1.php:20
+msgid "Standard 1"
+msgstr ""
+
+#: inc/gutenberg/blocks/standard-type-2.php:20
+msgid "Standard 2"
+msgstr ""
+
+#: inc/gutenberg/blocks/standard-type-3.php:20
+msgid "Standard 3"
+msgstr ""
+
+#: inc/gutenberg/blocks/standard-type-3.php:287,
+#: inc/gutenberg/blocks/tile-type-2.php:286,
+#: inc/gutenberg/blocks/tile-type-3.php:301
+msgid "Post Number"
+msgstr ""
+
+#: inc/gutenberg/blocks/standard-type-3.php:300,
+#: inc/gutenberg/blocks/tile-type-2.php:299,
+#: inc/gutenberg/blocks/tile-type-3.php:314
+msgid "Post Number Border"
+msgstr ""
+
+#: inc/gutenberg/blocks/standard-type-4.php:20
+msgid "Standard 4"
+msgstr ""
+
+#: inc/gutenberg/blocks/tile-type-1.php:20
+msgid "Tile 1"
+msgstr ""
+
+#: inc/gutenberg/blocks/tile-type-1.php:130
+msgid "Stretch"
+msgstr ""
+
+#: inc/gutenberg/blocks/tile-type-2.php:20
+msgid "Tile 2"
+msgstr ""
+
+#: inc/gutenberg/blocks/tile-type-3.php:20
+msgid "Tile 3"
+msgstr ""

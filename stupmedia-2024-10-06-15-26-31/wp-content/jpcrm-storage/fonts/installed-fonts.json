@@ -1,0 +1,8 @@
+{
+    "notosansglobal": {
+        "normal": "\/srv\/htdocs\/wp-content\/jpcrm-storage\/fonts\/\/NotoSans-Regular",
+        "bold": "\/srv\/htdocs\/wp-content\/jpcrm-storage\/fonts\/\/NotoSans-Bold",
+        "italic": "\/srv\/htdocs\/wp-content\/jpcrm-storage\/fonts\/\/NotoSans-Italic",
+        "bold_italic": "\/srv\/htdocs\/wp-content\/jpcrm-storage\/fonts\/\/NotoSans-BoldItalic"
+    }
+}
